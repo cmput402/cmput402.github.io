@@ -9,7 +9,7 @@ save_as: index.html
 * [Course Outline/Syllabus]({filename}/general/outline.md)
 * [How to get Help]({filename}/general/help.md)
     * [Wellness Supports]({filename}/general/help.md#wellness-supports)
-* [Course Schedule]({filename}/general/schedule.md)
+* [Course Schedule](#schedule)
 * [Reference Material, eBooks, & Resources]({filename}/general/resources.md)
 
 # Schedule 
