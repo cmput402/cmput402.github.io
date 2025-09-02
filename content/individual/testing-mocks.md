@@ -8,6 +8,14 @@ summary: Individual Assignment 2: Testing with Mocks
 
 [TOC]
 
+<style>
+    html body main {
+        background-image: url("/theme/draft.png");
+        background-repeat: repeat;
+        background-size: 100%;
+    }
+</style>
+
 # Overview
 
 Most parts of software systems do not work in isolation and are difficult to test when the environment changes. Rather, these parts collaborate with multiple components to perform tasks that we want to implement and test. Various forms of mocks, stubs, fakes and other objects are used in many forms of testing to simulate the behavior of real objects that our implementation depends on to perform a specific task. One of the benefits of mocking dependencies is that we can focus on testing our implementation given that we have obtained the information that we expected from those dependencies. Furthermore, it allows to simulate error conditions in the environment and thus to test a system for robustness. In this assignment, you will test a desktop application by mocking a network service.
