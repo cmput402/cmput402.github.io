@@ -1,8 +1,3 @@
-Title: Course Outline Winter 2024
-date: 2024-01-06
-tags: outline, policy, grading, contact
-authors: Hazel Victoria Campbell
-status: published
 Title: Course Outline
 date: 2025-09-01
 tags: outline, policy, grading, contact
