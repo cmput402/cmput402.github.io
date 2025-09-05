@@ -17,9 +17,11 @@ summary: Individual Assignment 1: Testing Theory
     }
 </style>
 
+**This is currently a draft. It will be finalized it by Sept 15.**
+
 # Submission
 
--   Please upload a **pdf** on eClass.
+-   Please upload a **pdf** on Canvas.
 -   Please draw all diagrams using any program of your choice such that
     your TA can clearly read it.
 -   The assignment consists of 4 questions
