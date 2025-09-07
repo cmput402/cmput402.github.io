@@ -14,7 +14,7 @@ summary: Tartan Smart Home System
 
 # Group Assignments
 
-* [Group Assignment 1: Basics]({filename}/group/basics-updated.md)
+* [Group Assignment 1: Basics]({filename}/group/basics.md)
 <!--* [Group Assignment 2: Testing]({filename}/group/testing.md)
 * [Group Assignment 3: Testing in Production]({filename}/group/testing-in-production.md)
 * [Group Assignment 4: Static Analysis]({filename}/group/static-analysis.md)
