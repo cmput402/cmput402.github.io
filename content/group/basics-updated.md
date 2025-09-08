@@ -96,12 +96,12 @@ You must write your report using the [IEEE Conference template](https://www.over
 ## LaTeX Usage Guidelines
 
 - If you are using [Overleaf](https://www.overleaf.com/) (an online collaborative LaTeX editor):  
-  - Submit your PDF report with the Overleaf project URL  
-  - Include your .tex file and any related assets (e.g., figures) in your GitHub repository.
+  - Submit your PDF report along with the Overleaf project URL.  
+  - Include your LaTeX source files (e.g., `.tex`, figures, `.bib`) in your GitHub repository.  
 
-- If you are using LaTeX locally (Instructions for local LaTeX setup option can be found [MiKTeX](https://miktex.org/):  
-  - Include your .tex file and any related assets (e.g., figures) in your GitHub repository.  
-  - Submit both the PDF and the .tex file to eClass.
+- If you are using LaTeX locally (instructions for local setup can be found at [MiKTeX](https://miktex.org/)):  
+  - Submit your PDF report to Canvas.  
+  - Include your LaTeX source files (e.g., `.tex`, figures, `.bib`) in your GitHub repository.  
 
 📌 To ensure your LaTeX source file is easy to locate, place it in a logical location within the repository (e.g., a clearly named folder), and create or update the README.md to document the structure and contents.
 
