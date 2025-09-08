@@ -35,21 +35,21 @@ The following outlines Tartan’s rules for making decisions about the house sta
 
 **R1:** If the house is vacant, then the light cannot be turned on.
 
-### 🟢 Easy
+## 🟢 Easy
 - **R2:** If the alarm is enabled and the door is opened, then sound the alarm.  
 - **R3:** If the house is vacant, then close the door.  
 - **R4:** If the alarm is enabled and the house gets suddenly occupied (i.e., someone is detected by the proximity sensor), then sound the alarm.  
 - **R5:** If the target temperature is greater than the current temperature, then turn on the heater. Otherwise, turn off the heater.  
 - **R6:** If the target temperature is less than the current temperature, then turn on the air conditioner. Otherwise, turn off the air conditioner.  
 
-### 🟡 Medium
+## 🟡 Medium
 - **R7:** When the “away timer” expires, then turn off the light, arm the alarm, and close the door.  
 - **R8:** If the house becomes occupied while the alarm is disabled, then turn on the lights for the legitimate user.  
 - **R9:** The alarm can be disabled only when the house is occupied (i.e. it cannot be disabled remotely).  
 - **R10:** The heater and the dehumidifier cannot be run simultaneously.  
 - **R11:** The IoT Controller shall allow the user to clear the log at any time.
 
-### 🔴 Hard
+## 🔴 Hard
 - **R12:** If the house is empty, then start the away timer.  
 - **R13:** The correct passcode is required to disable the alarm.  
 - **R14:** The IoT Controller shall require the user to login to the house control panel using a username and password.  
