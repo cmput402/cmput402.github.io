@@ -21,7 +21,7 @@ The following requirements must be satisfied to start this project:
 
 - A development environment with Java, Gradle and Docker support, preferably together with a correctly configured IDE like Eclipse or IntelliJ that allows to execute unit tests and perform coverage analysis on Java projects. (IntelliJ is recommended but not required.)
 
-- All members of the team must accept the assignment on GitHub Classroom on the following [link](https://classroom.github.com/a/cousPqCv). This will create the private repository your team will work on. Make sure to join your assigned team. **The first person from your team to accept the assignment on GitHub Classroom will create the team there. Use the same team name as on eClass (e.g., Group1, Group15, etc.)**
+- All members of the team must accept the assignment on GitHub Classroom on the following [link](https://classroom.github.com/a/cousPqCv). This will create the private repository your team will work on. Make sure to join your assigned team. **The first person from your team to accept the assignment on GitHub Classroom will create the team there. Use the same team name as on Canvas (e.g., Group1, Group15, etc.)**
 
 You will also likely need several additional tools to complete this assignment. Please identify and describe these tools in your report.
 
@@ -87,7 +87,7 @@ You must write your report using the [IEEE Conference template](https://www.over
 
 ## Submission Requirements
 
-- Submit the compiled PDF version of your report via eClass. If applicable, also submit your .tex file (see [LaTeX usage guidelines](#latex-usage-guidelines) below).
+- Submit the compiled PDF version of your report via Canvas. If applicable, also submit your .tex file (see [LaTeX usage guidelines](#latex-usage-guidelines) below).
 
 - Please name your file using the following format:  
   - `<LabCode>_<GroupX>_G1_Report.pdf` (where X is your group number)
@@ -152,5 +152,5 @@ In total, G1 is worth 63 points with the following breakdown:
 
 The report is graded based on its presentation, organization, and *how clearly things are described*. All the items described in the Acceptance Criteria section above must appear in the report.
 
-Each member must assess their team members' contributions on eClass. This is worth 5 points of the total assignment grade and is confidential (results go to the course staff). Note that if we find *big* discrepancies in contributions or if one team member is negatively rated by all other team members, *then* we will investigate and regrade team members as needed.
+Each member must assess their team members' contributions on Canvas. This is worth 5 points of the total assignment grade and is confidential (results go to the course staff). Note that if we find *big* discrepancies in contributions or if one team member is negatively rated by all other team members, *then* we will investigate and regrade team members as needed.
 
