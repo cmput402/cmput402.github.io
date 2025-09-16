@@ -8,7 +8,7 @@ summary: Individual Assignment 1: Testing Theory
 
 
 [TOC]
-
+<!-- 
 <style>
     html body main {
         background-image: url("/theme/draft.png");
@@ -17,7 +17,7 @@ summary: Individual Assignment 1: Testing Theory
     }
 </style>
 
-**This is currently a draft. It will be finalized it by Sept 15.**
+**This is currently a draft. It will be finalized it by Sept 15.** -->
 
 # Submission
 
@@ -30,6 +30,8 @@ summary: Individual Assignment 1: Testing Theory
 
 The learning objectives of this assignment is:
 
+-   understand expectations around GenAI (LLM) use
+-   practice boundary value analysis
 -   develop equivalence classes
 -   gain experience in combinatorial testing
 -   identify states and transitions from a high-level description of a
@@ -41,9 +43,108 @@ Please note that it is important for you to understand how to solve the
 problems in this assignment, as you will get similar types of problems
 in the exams.
 
-The assignment is out of 38 marks.
+The assignment is out of 52 marks.
+
+# Question 0 (8 marks)
+
+Answer the following questions without using AI:
+
+A. Where are the course expectations around plagiarism, citation, and LLM use documented? Provide a URL.
+
+B. Which collaboration policy applies to each grade item? 
+
+* Exam?
+* Individual Assignment?
+* Group Assignment?
+* Participation?
+
+C. For what grade items is the use of online Q & A websites (such as Stack Overflow) allowed in this course?
+
+* Exam?
+* Individual Assignment?
+* Group Assignment?
+* Participation?
+
+D. For what grade items is the is sharing answers with other students allowed in this course?
+
+* Exam?
+* Individual Assignment?
+* Group Assignment?
+* Participation?
+
+E. What are the expectations on LLM use in this course? Is it allowed? If it's allowed, does it come with any requirements?
+
+F. For what grade items are LLMs (such as ChatGPT) allowed in this course?
+
+* Exam?
+* Individual Assignment?
+* Group Assignment?
+* Participation?
+
+G. Print and sign your name on paper and scan it, or on a tablet with a stylus if you have one. Include the scan in your submission. **If your name or your signature are missing, you will receive a zero on this assignment.**
+
+I, <span style="padding-top: 72pt;">______________________________</span> have read and understand these policies.
+
+Signature: <span style="padding-top: 72pt;">______________________________</span>
+
+**It is not acceptable to type your name. I need your real signature!**
+
+H. Given your answers above, are you allowed to use an LLM (such as ChatGPT) on the rest of this assignment?
 
 # Question 1 (6 marks)
+
+ChatGPT wrote me a `int lcm(int a, int b)` function in Java to compute the Least Common Multiple (LCM). But it doesn't always work correctly. I told ChatGPT that it doesn't always work correctly, but it didn't believe me.
+Using boundary value analysis, design a set of tests that will reveal ChatGPT's error.
+
+Here is the specification for `lcm`:
+
+* Input `a` a Java `int`, non-negative (`>=0`). 
+* Input `b` a Java `int`, non-negative (`>=0`).
+* Output: `lcm(a, 0)` is always 0
+* Output: `lcm(0, b)` is also 0. 
+* If `a > 0` and `b > 0`:
+    * Output: `lcm(a, b)` outputs the smallest non-negative `int` that divides both `a` and `b` evenly... if such an `int` exists.
+        * If it exists:
+            * `lcm(a, b) % a` is `0` (definition of "multiple")
+            * `lcm(a, b) % b` is `0` (definition of "multiple")
+        * Some other number if it does not exist:
+            * `lcm(a, b) % a != 0 || lcm(a, b) % b != 0` (one or both)
+
+1. Use the specification of `lcm` and of Java `int` to select input values for both inputs. Don't include robustness test values. (The only possible out of range values are negative. We don't care about them for this assignment.) Write your input values down in a table.
+2. Using your test specifications, create a list of test cases. You can write this as a table with inputs and outputs. You do not need the worst-case combination. Use a known-good LCM calculator (such as Wolfram Alpha) to help generate outputs if you need to, or use the rule `lcm(a, a)` is always `== a`. But be sure to follow the spec.
+3. Using your test cases, evaluate ChatGPT's code (listed below). List outputs. What outputs does ChatGPT's implementation fail on?
+4. Optional bonus question: Can you fix it without changing the types or adding conditionals?
+
+"write a function to comput the gcd in java. now write one for the lcm", ChatGPT 5, OpenAI, 2025-09-03, https://chatgpt.com/s/t_68c8af7963708191ac39f389c3a14e71
+
+```
+public class MathUtils {
+
+    // Function to compute gcd of two numbers
+    public static int gcd(int a, int b) {
+        if (b == 0) {
+            return Math.abs(a);
+        }
+        return gcd(b, a % b);
+    }
+
+    // Function to compute lcm of two numbers
+    public static int lcm(int a, int b) {
+        if (a == 0 || b == 0) {
+            return 0; // lcm(0, b) is defined as 0
+        }
+        return Math.abs(a * b) / gcd(a, b);
+    }
+
+    public static void main(String[] args) {
+        System.out.println(lcm(4, 6));   // Output: 12
+        System.out.println(lcm(21, 6));  // Output: 42
+        System.out.println(lcm(8, 0));   // Output: 0
+    }
+}
+```
+
+# Question 2 (6 marks)
 
 You are evaluating a system that requires a user to login with a
 "strong" password. The password must satisfy the following requirements:
@@ -88,7 +189,7 @@ Briefly (3-5 sentences), reflect on your experience in this process. Is
 this something you would use again? Did it help you think about the
 domain?
 
-(For concrete test cases, pseudocode is okay.)
+(For concrete test cases, please write in pseudocode.)
 
 *Hint: Note that this question does not have a single correct answer.
 The goal is for you to think about criteria that make sense to partition
@@ -97,7 +198,7 @@ are. If you end up having too many test frames for such a simple problem
 (e.g., 50-80), then perhaps think of further constraints that can help
 you reduce this number.*
 
-# Question 2 (6 marks)
+# Question 3 (6 marks)
 
 For the following code, (a) provide a list of test cases that achieve
 full branch coverage, keeping in mind that this is Java code:
@@ -110,10 +211,13 @@ full branch coverage, keeping in mind that this is Java code:
         return b+a;
     }
 
-For the same code, (b) provide a list of test cases that achieves full
-statement coverage, but not full branch coverage.
+For (a) also provide a diagram showing which test cases test which branches.
 
-# Question 3 (7 marks)
+For the same code, (b) provide a list of test cases that achieves full
+statement coverage, but not full branch coverage, 
+and provide a diagram showing which test cases cover which statements.
+
+# Question 4 (7 marks)
 
 **Scenario:** A check-in machine is installed at an airport. A detailed
 description of how to use this machine is as follows:
@@ -178,7 +282,7 @@ click "Cancel". If you do so, the machine will immediately go back to
 (d) \[1 mark\] Is there any relationship between transition coverage and
     state coverage?
 
-# Question 4 (19 marks)
+# Question 5 (19 marks)
 
 Consider the following method `isValidMove` given below (*line numbers
 shown for easier reference*). It is based on the game
