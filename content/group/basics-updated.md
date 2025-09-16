@@ -88,14 +88,10 @@ At this point, you are also welcome to explore additional GH Actions that may pr
 ## Submission Requirements
 
 - Submit a short (max. 3 pages) informal PDF version of your report via Canvas.
-
 - Please name your file using the following format:
-
     - `<LabCode>_<GroupName>_G1_Report.pdf`
     - Example: `D01_m01_G1_Report.pdf`
-
 - Formatting Requirements:
-
     - Page Orientation: Portrait
     - Font Size: 11pt
     - Font Style: Times New Roman
@@ -121,14 +117,10 @@ At this point, you are also welcome to explore additional GH Actions that may pr
     - 1 rule from Easy  
     - 2 rules from Medium  
     - 2 rules from Hard  
-
 - A brief summary of your infrastructure setup:
-  
     - Describe any GitHub Actions/workflows you created.  
     - Explain how your workflow builds the code and executes the tests.  
-
 - One or more screenshots (inserted as figures in your LaTeX report) showing:
-  
     - A successful build  
     - A failing build  
     - The passing tests from Part 1  
