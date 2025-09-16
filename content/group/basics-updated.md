@@ -21,7 +21,7 @@ The following requirements must be satisfied to start this project:
 
 - A development environment with Java, Gradle and Docker support, preferably together with a correctly configured IDE like Eclipse or IntelliJ that allows to execute unit tests and perform coverage analysis on Java projects. (IntelliJ is recommended but not required.)
 
-- All members of the team must accept the assignment on GitHub Classroom on the following [link](https://classroom.github.com/a/cousPqCv). This will create the private repository your team will work on. Make sure to join your assigned team. **The first person from your team to accept the assignment on GitHub Classroom will create the team there. Use the same team name as on eClass (e.g., Group1, Group15, etc.)**
+- All members of the team must accept the assignment on GitHub Classroom on the following [link](https://classroom.github.com/a/cousPqCv). This will create the private repository your team will work on. Make sure to join your assigned team. **The first person from your team to accept the assignment on GitHub Classroom will create the team there. Use the same team name as on Canvas (e.g., m07, w02, etc.)**
 
 You will also likely need several additional tools to complete this assignment. Please identify and describe these tools in your report.
 
@@ -85,19 +85,29 @@ At this point, you are also welcome to explore additional GH Actions that may pr
 
 <!-- You must write your report using the [IEEE Conference template](https://www.overleaf.com/read/qtgwphwhrkft#eaa1dc). -->
 
-## Submission Requirements
+Your repot must be well formatted and not just readable, but professional and **easy** to read.
 
-- Submit a short (max. 3 pages) informal PDF version of your report via Canvas.
-- Please name your file using the following format:
-    - `<LabCode>_<GroupName>_G1_Report.pdf`
-    - Example: `D01_m01_G1_Report.pdf`
-- Formatting Requirements:
-    - Page Orientation: Portrait
-    - Font Size: 11pt
-    - Font Style: Times New Roman
+* Text must be standard and consistent. (10-11pt, Times New Roman or Computer Modern)
+* Images must be sized so that text size is similar inside the image as it outside of the image (10-11pt).
+* Page orientation must stay consistently Portrait.
+* Two columns.
+* Letter Size (A4 is not allowed).
+* Single spaced inside paragraphs + 6pt (~0.5 lines) after paragraphs.
 
+More details can be found in the MS Word template: [https://www.ieee.org/content/dam/ieee-org/ieee/web/org/conferences/conference-template-letter.docx] or [the MS Word template rendered as a PDF]({attach}conference-template-letter.pdf). If in doubt, make your report look like the template!
 
-<!-- ## LaTeX Usage Guidelines
+More templates: 
+
+* [https://www.ieee.org/conferences/publishing/templates] (Use US Letter only!)
+* [Overleaf template](https://www.overleaf.com/read/qtgwphwhrkft#eaa1dc)
+
+### MS Word & Google Doc Guidelines
+
+- Submit your PDF.
+  - Include your MS Word .docx in your repository OR your Google Doc URL.
+  - Include all the figures in your repository.
+
+### LaTeX Usage Guidelines
 
 - If you are using [Overleaf](https://www.overleaf.com/) (an online collaborative LaTeX editor):  
   - Submit your PDF report along with the Overleaf project URL.  
@@ -107,7 +117,17 @@ At this point, you are also welcome to explore additional GH Actions that may pr
   - Submit your PDF report to Canvas.  
   - Include your LaTeX source files (e.g., `.tex`, figures, `.bib`) in your GitHub repository.  
 
-📌 To ensure your LaTeX source file is easy to locate, place it in a logical location within the repository (e.g., a clearly named folder), and create or update the README.md to document the structure and contents. -->
+📌 To ensure your LaTeX source file is easy to locate, place it in a logical location within the repository (e.g., a clearly named folder), and create or update the README.md to document the structure and contents.
+
+
+## Submission Requirements
+
+- Submit a short (max. 3 pages) informal PDF version of your report via Canvas.
+- Please name your file using the following format:
+    - `<LabCode>_<GroupName>_G1_Report.pdf`
+    - Example: `D01_m01_G1_Report.pdf`
+- Meets the formatting requirements in the previous section. Marks may be lost or you may recieve a zero if the report not **easy** to read and professional, or if it does meet the formatting above.
+
 
 ## Your Report Must Include
 
@@ -154,5 +174,5 @@ In total, G1 is worth 63 points with the following breakdown:
 
 The report is graded based on its presentation, organization, and *how clearly things are described*. All the items described in the Acceptance Criteria section above must appear in the report.
 
-Each member must assess their team members' contributions on eClass. This is worth 5 points of the total assignment grade and is confidential (results go to the course staff). Note that if we find *big* discrepancies in contributions or if one team member is negatively rated by all other team members, *then* we will investigate and regrade team members as needed.
+Each member must assess their team members' contributions. There will be a google form linked on Canvas. This is worth 5 points of the total assignment grade and is confidential (results go to the course staff). Note that if we find *big* discrepancies in contributions or if one team member is negatively rated by all other team members, *then* we will investigate and regrade team members as needed.
 
