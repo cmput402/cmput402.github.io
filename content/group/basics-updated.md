@@ -104,25 +104,25 @@ More templates:
 ### MS Word & Google Doc Guidelines
 
 - Submit your PDF.
-  - Include your MS Word .docx in your repository OR your Google Doc URL.
-  - Include all the figures in your repository.
+    - Include your MS Word .docx in your repository OR your Google Doc URL.
+    - Include all the figures in your repository.
 
 ### LaTeX Usage Guidelines
 
 - If you are using [Overleaf](https://www.overleaf.com/) (an online collaborative LaTeX editor):  
-  - Submit your PDF report along with the Overleaf project URL.  
-  - Include your LaTeX source files (e.g., `.tex`, figures, `.bib`) in your GitHub repository.  
+    - Submit your PDF report along with the Overleaf project URL.  
+    - Include your LaTeX source files (e.g., `.tex`, figures, `.bib`) in your GitHub repository.  
 
 - If you are using LaTeX locally (instructions for local setup can be found at [MiKTeX](https://miktex.org/)):  
-  - Submit your PDF report to Canvas.  
-  - Include your LaTeX source files (e.g., `.tex`, figures, `.bib`) in your GitHub repository.  
+    - Submit your PDF report to Canvas.  
+    - Include your LaTeX source files (e.g., `.tex`, figures, `.bib`) in your GitHub repository.  
 
 📌 To ensure your LaTeX source file is easy to locate, place it in a logical location within the repository (e.g., a clearly named folder), and create or update the README.md to document the structure and contents.
 
 
 ## Submission Requirements
 
-- Submit a short (max. 3 pages) informal PDF version of your report via Canvas.
+- Submit a short (max. 3 pages) PDF version of your report via Canvas.
 - Please name your file using the following format:
     - `<LabCode>_<GroupName>_G1_Report.pdf`
     - Example: `D01_m01_G1_Report.pdf`
