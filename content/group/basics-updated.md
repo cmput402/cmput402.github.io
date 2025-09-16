@@ -83,17 +83,23 @@ At this point, you are also welcome to explore additional GH Actions that may pr
 
 # Acceptance Criteria for G1
 
-You must write your report using the [IEEE Conference template](https://www.overleaf.com/read/qtgwphwhrkft#eaa1dc).
+<!-- You must write your report using the [IEEE Conference template](https://www.overleaf.com/read/qtgwphwhrkft#eaa1dc). -->
 
 ## Submission Requirements
 
-- Submit the compiled PDF version of your report via eClass. If applicable, also submit your .tex file (see [LaTeX usage guidelines](#latex-usage-guidelines) below).
+- Submit a short (max. 3 pages) informal PDF version of your report via Canvas. 
 
 - Please name your file using the following format:  
-  - `<LabCode>_<GroupX>_G1_Report.pdf` (where X is your group number)
-  - Example: H01_Group1_G1_Report.pdf
+  - `<LabCode>_<GroupName>_G1_Report.pdf`
+  - Example: D01_m01_G1_Report.pdf
+ 
+- Formatting Requirements:
+  - Page Orientation: Portrait
+  - Font Size: 11pt
+  - Font Style: Times New Roman
 
-## LaTeX Usage Guidelines
+
+<!-- ## LaTeX Usage Guidelines
 
 - If you are using [Overleaf](https://www.overleaf.com/) (an online collaborative LaTeX editor):  
   - Submit your PDF report along with the Overleaf project URL.  
@@ -103,7 +109,7 @@ You must write your report using the [IEEE Conference template](https://www.over
   - Submit your PDF report to Canvas.  
   - Include your LaTeX source files (e.g., `.tex`, figures, `.bib`) in your GitHub repository.  
 
-📌 To ensure your LaTeX source file is easy to locate, place it in a logical location within the repository (e.g., a clearly named folder), and create or update the README.md to document the structure and contents.
+📌 To ensure your LaTeX source file is easy to locate, place it in a logical location within the repository (e.g., a clearly named folder), and create or update the README.md to document the structure and contents. -->
 
 ## Your Report Must Include
 
