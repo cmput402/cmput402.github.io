@@ -85,10 +85,10 @@ At this point, you are also welcome to explore additional GH Actions that may pr
 
 <!-- You must write your report using the [IEEE Conference template](https://www.overleaf.com/read/qtgwphwhrkft#eaa1dc). -->
 
-Your repot must be well formatted and not just readable, but professional and **easy** to read.
+Your report must be well formatted and not just readable, but professional and **easy** to read.
 
 * Text must be standard and consistent. (10-11pt, Times New Roman or Computer Modern)
-* Images must be sized so that text size is similar inside the image as it outside of the image (10-11pt).
+* Images must be sized so that text size is similar inside the image as it is outside of the image (10-11pt).
 * Page orientation must stay consistently Portrait.
 * Two columns.
 * Letter Size (A4 is not allowed).
@@ -104,29 +104,29 @@ More templates:
 ### MS Word & Google Doc Guidelines
 
 - Submit your PDF.
-  - Include your MS Word .docx in your repository OR your Google Doc URL.
-  - Include all the figures in your repository.
+    - Include your MS Word .docx in your repository OR your Google Doc URL.
+    - Include all the figures in your repository.
 
 ### LaTeX Usage Guidelines
 
 - If you are using [Overleaf](https://www.overleaf.com/) (an online collaborative LaTeX editor):  
-  - Submit your PDF report along with the Overleaf project URL.  
-  - Include your LaTeX source files (e.g., `.tex`, figures, `.bib`) in your GitHub repository.  
+    - Submit your PDF report along with the Overleaf project URL.  
+    - Include your LaTeX source files (e.g., `.tex`, figures, `.bib`) in your GitHub repository.  
 
 - If you are using LaTeX locally (instructions for local setup can be found at [MiKTeX](https://miktex.org/)):  
-  - Submit your PDF report to Canvas.  
-  - Include your LaTeX source files (e.g., `.tex`, figures, `.bib`) in your GitHub repository.  
+    - Submit your PDF report to Canvas.  
+    - Include your LaTeX source files (e.g., `.tex`, figures, `.bib`) in your GitHub repository.  
 
 📌 To ensure your LaTeX source file is easy to locate, place it in a logical location within the repository (e.g., a clearly named folder), and create or update the README.md to document the structure and contents.
 
 
 ## Submission Requirements
 
-- Submit a short (max. 3 pages) informal PDF version of your report via Canvas.
+- Submit a short (max. 3 pages) PDF version of your report via Canvas.
 - Please name your file using the following format:
     - `<LabCode>_<GroupName>_G1_Report.pdf`
     - Example: `D01_m01_G1_Report.pdf`
-- Meets the formatting requirements in the previous section. Marks may be lost or you may recieve a zero if the report not **easy** to read and professional, or if it does meet the formatting above.
+- Meets the formatting requirements in the previous section. Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting above.
 
 
 ## Your Report Must Include
@@ -174,5 +174,5 @@ In total, G1 is worth 63 points with the following breakdown:
 
 The report is graded based on its presentation, organization, and *how clearly things are described*. All the items described in the Acceptance Criteria section above must appear in the report.
 
-Each member must assess their team members' contributions. There will be a google form linked on Canvas. This is worth 5 points of the total assignment grade and is confidential (results go to the course staff). Note that if we find *big* discrepancies in contributions or if one team member is negatively rated by all other team members, *then* we will investigate and regrade team members as needed.
+Each member must assess their team members' contributions. There will be a Google Form linked on Canvas. This is worth 5 points of the total assignment grade and is confidential (results go to the course staff). Note that if we find *big* discrepancies in contributions or if one team member is negatively rated by all other team members, *then* we will investigate and regrade team members as needed.
 
