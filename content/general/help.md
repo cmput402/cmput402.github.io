@@ -68,7 +68,7 @@ We will not tolerate harassment, bullying, threats, intimidation, insults, lying
 
 **Questions related to the course and course material, especially if the answer could help another student!**
 
-🚀 Posting to the discussion forum increases your changes of a **quick response** since any of the course staff or your classmates are able to answer. 🌠
+🚀 Posting to the discussion forum increases your chances of a **quick response** since any of the course staff or your classmates are able to answer. 🌠
 
 Unless your question is personal (E.g., you are feeling unwell and require an EA, you have a question about your mark), all questions should be posted on the Discussion Forum first. Please do not share code from your implementations (configuration settings are OK). 
 
