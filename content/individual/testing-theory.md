@@ -26,6 +26,17 @@ summary: Individual Assignment 1: Testing Theory
     your TA can clearly read it.
 -   The assignment consists of 6 questions
 
+## Formatting
+
+Your report must be well formatted and not just readable, but professional and **easy** to read.
+
+* Text must be standard and consistent. (10-11pt, Times New Roman or Computer Modern)
+* Images must be sized so that text size is similar inside the image as it is outside of the image (10-11pt).
+* Page orientation must stay consistently Portrait.
+* Letter Size (A4 is not allowed).
+* Single spaced inside paragraphs + 6pt (~0.5 lines) after paragraphs.
+* Questions must be answered in order.
+
 # Overview
 
 The learning objectives of this assignment is:
