@@ -59,7 +59,6 @@ In the first part of this assignment, your task is to improve the quality of you
 
 **NOTE**: Please refer to the code coverage tutorial posted on Canvas and discussed in the lab to see how you can configure your coverage measurement tool to measure coverage only for your implemented features (as much as possible).
 
----
 
 ## Part 2: Implementation and Verification of a Smart Door Lock
 
@@ -105,7 +104,6 @@ The following criteria must be satisfied for Part 2 to be accepted as complete.
 | Test-driven development has been followed. | 5 |
 | New features underwent code review. | 5 |
 
----
 
 # Report for Parts 1 & 2
 
