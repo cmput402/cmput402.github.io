@@ -71,51 +71,60 @@ Specifically, the smart lock must support the following features that users can 
 - **Intruder Defence**: When in-home sensors detect the possible presence of an intruder, lock the door and send "possible intruder detected" messages to the access panels. Keep the door locked until the sensors provide an "all clear" signal, at which time "all clear" messages are sent to the access panels.
 - **Night Lock**: Residents configure the time when night begins and ends. At night, the door is automatically locked and always relocked if it becomes unlocked at any point during the night.
 
+An access panel is one of these: <br>
+<img id="access-panel" alt="access panel" src="{attach}adt-access-panel.jpg" style="width: 50%;"><br>
+(Picture by Marco Albertini, https://securitycamcenter.com/how-to-reset-adt-alarm-system/).
 
-### Acceptance criteria for Part 2
+For the access panel, you can add the functionality to the frontend, since we don't have any physical access panels. Make sure that your messages are shown on the frontend log of the application. You can append the access panel messages to your log in your code and make sure it's showing up on the frontend.
 
-The following criteria must be satisfied for the assignment to be accepted as
-complete.
+Note that the above feature requirements may be ambiguous. In addition, features may interact, and the door lock should behave in a reasonable way, which can be resolved with timers, priorities, or other mechanisms. For example, what happens or should happen if an intruder is detected and a resident arrives at the door? You should ask for clarification about requirements if needed and explicitly document all assumptions you make about interactions.
+
+Integrate the smart door lock and its features with the current system and test it thoroughly. You can add additional sensors and actuators to the house, if needed.
+
+**While developing the new door lock features, you must follow a test-driven development (TDD) approach**. Use Pull Requests to integrate each new functionality and have another team member review your code. **Each team member must perform a code review of at least 1 PR**.
+
+To make it easier for us to spot your test-driven development, you must make your commits using RED GREEN commits. Make a git commit after each of the following steps:
+- **Red**: Write a failing test and make a commit starting with the word "RED".
+- **Green**: Implement the code to make the test pass and commit with the word "GREEN".
+- **Refactor**: Improve the code without changing behaviour and commit with the word "REFACTOR", ensuring all tests still pass.
+  
+You must conduct unit testing on the new code and carefully measure coverage. However, given that this is a new feature, you should also perform integration (i.e., tests that combine multiple classes/functionality) and system testing (i.e., end-to-end testing that treats the system as a black box). You must also document the integration and system testing procedures in your report.
+
+### Acceptance criteria (Part 2)
+
+The following criteria must be satisfied for Part 2 to be accepted as complete.
 
 | Criteria | Grade |
-|:-------- | :----|
-| Requirements for the smart door lock are documented. The documentation format is up to the team, but should be clear and complete and includes any assumptions the team made. | 10 |
-| The software for the smart door lock successfully builds, runs, and implements stated requirements. | 10 |
+|---|---:|
+| Requirements for the smart door lock are documented. It should be clear and complete and include any assumptions the team made. | 12 |
+| The smart door lock implementation builds and runs successfully, and meets the functional requirements defined above. | 12 |
 | Integration and system testing strategy is implemented and described | 10 |
-| Tests must achieve at least 80% statement and 80% branch coverage for ***new*** code. | 15 |
-| The mutation score for the tests related to the new door lock functionality should be 90%| 10 |
+| Tests must achieve at least 80% statement and 80% branch coverage for **new code**. | 15 |
+| The mutation score for the tests related to the new door lock functionality should be 90% | 10 |
+| Automated System Testing integrated in CI | 5 |
 | Test-driven development has been followed | 5 |
 | New features underwent code review | 5 |
 
+---
 
 # Report for Parts 1 & 2
 
-Create a report as a single **PDF** file that describes your verification
-activities, decisions, and results for both the existing functionality and the
-new door lock (max. 4 pages of text, not including screenshots/tables etc). You must upload your report to eClass by the specified deadline. While marking, we will verify all acceptance criteria by checking both your report and code repository.
-**The final version of your code for all parts of this project must be in the master branch and tagged as `G2_Done` by the deadline.**
+You must write your report that describes your verification activities, decisions, and results for both the existing functionality and the new door lock (max. 4 pages of text, including screenshots/tables, etc). While marking, we will verify all acceptance criteria by checking both your report and code repository. However, we will not look “deeply” into your code repository, e.g., we will not spend more than 10 minutes trying to get your project to compile and run. 
 
-The following describe the required details of the report:
+**Please tag your code with `G2_Done`**
 
-- **Part 1**:
-	- **Chosen Rules**: For completeness, restate the four rules you chose for part 1 (they should be the same as those from G1).
-	- **Testing plan and test cases**: Describe the
-  process you used to design test cases and provide an overview of the tests
-  you wrote. How were test cases designed? How were test values selected? Which
-  testing techniques did you use (i.e. random testing, combinatorial testing,
-  BVA, other)? Mention how much additional testing you needed to add in G2 when compared to G1. Finally, provide a pointer to the actual test classes/methods scripts in your repository.
-  - **Coverage**: Provide a screenshot of your coverage report (you can focus only on the relevant parts of the system). While marking, we will look into the actual report ourselves and make sure you satisfy the coverage criteria.
-- **Part 2**:
-	- **Clarified requirements for smart door lock**:
-  Describe all assumptions you made about the requirements of the smart door
-  lock system and its features.
-  - **Software development processes**: Briefly indicate
-  the role of each group member in this process, describe how you planned and
-  organized the design, development, and evaluation of the smart door lock.
-  Include a description of how you coordinated implementation and
-  testing.
-  - **Overall testing strategy and implementation:** . Indicate where your unit, integration, and system tests are implemented. Mention what you chose to test for integration testing as well as system testing. Which tools/frameworks/techniques did you use to implement your integration and system testing?
-  - **Coverage and mutation score:** Provide a screenshot of your coverage report (you can focus only on the relevant parts of the system). While marking, we will look into the actual report ourselves and make sure you satisfy the coverage criteria. Also, provide a screenshot of your mutation score report. Please mention 2-3 examples of initially live mutations (i.e., mutants that your test suite did not initially kill) and how you improved your test suite to kill these mutants.
+The following describes the required details of the report:
+
+- **Part 1:**
+		- **Chosen Rules**: For completeness, restate the six rules (same as those from G1) for part 1.
+		- **Testing plan and test cases**: Describe the process you used to design test cases and provide an overview of the tests you wrote. How were test cases designed? How were test values selected? Which testing techniques did you use (i.e. random testing, combinatorial testing, BVA, other)? Mention how much additional testing you needed to add in G2 when compared to G1. Finally, provide a pointer to the actual test classes/methods scripts in your repository (either a hyperlink, or path description).
+		- **Coverage**: Provide a screenshot of your coverage report (you can focus only on the relevant parts of the system). While marking, we will look into the actual report ourselves and make sure you satisfy the coverage criteria.
+
+- **Part 2:**
+		- **Clarified requirements for smart door lock**: Describe all assumptions you made about the requirements of the smart door lock system and its features.
+		- **Software development processes**: Briefly indicate the role of each group member in this process, and describe how you planned and organized the design, development, and evaluation of the smart door lock. Include a description of how you coordinated implementation and testing.
+		- **Overall testing strategy and implementation**: Indicate where your unit, integration, and system tests are implemented. Mention what you chose to test for integration testing, as well as system testing. Which tools/frameworks/techniques did you use to implement your integration and system testing?
+		- **Coverage and mutation score**: Provide a screenshot of your coverage report (you can focus only on the relevant parts of the system). While marking, we will look into the actual report ourselves and make sure you satisfy the coverage criteria. Also, provide a screenshot of your mutation score report. Please mention 2-3 examples of initially live mutations (i.e., mutants that your test suite did not initially kill) and how you improved your test suite to kill these mutants.
 
 # Grading Summary
 
