@@ -128,7 +128,7 @@ Here is the specification for `lcm`:
 
 "write a function to comput the gcd in java. now write one for the lcm", ChatGPT 5, OpenAI, 2025-09-03, https://chatgpt.com/s/t_68c8af7963708191ac39f389c3a14e71
 
-```
+```.java
 public class MathUtils {
 
     // Function to compute gcd of two numbers
