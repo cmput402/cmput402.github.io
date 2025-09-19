@@ -52,10 +52,10 @@ In the first part of this assignment, your task is to improve the quality of you
 
 | Criteria | Points |
 |---|---:|
-| White-box & black-box **test design/selection plans** are completed and explained | 12 |
-| ≥ **80% statement** and ≥ **80% branch** coverage for selected features | 15 |
-| **Automated coverage measurement** runs on each build | 5 |
-| **All tests pass** | 10 |
+| Whitebox and blackbox test design and selection plans are completed and explained. | 12 |
+| Tests must achieve at least 80% statement and 80% branch coverage for the features selected to test. | 15 |
+| Automated measurement of coverage with each build is implemented. | 5 |
+| All tests pass. | 10 |
 
 **NOTE**: Please refer to the code coverage tutorial posted on Canvas and discussed in the lab to see how you can configure your coverage measurement tool to measure coverage only for your implemented features (as much as possible).
 
@@ -98,12 +98,12 @@ The following criteria must be satisfied for Part 2 to be accepted as complete.
 |---|---:|
 | Requirements for the smart door lock are documented. It should be clear and complete and include any assumptions the team made. | 12 |
 | The smart door lock implementation builds and runs successfully, and meets the functional requirements defined above. | 12 |
-| Integration and system testing strategy is implemented and described | 10 |
-| Tests must achieve at least 80% statement and 80% branch coverage for **new code**. | 15 |
-| The mutation score for the tests related to the new door lock functionality should be 90% | 10 |
-| Automated System Testing integrated in CI | 5 |
-| Test-driven development has been followed | 5 |
-| New features underwent code review | 5 |
+| Integration and system testing strategy is implemented and described. | 10 |
+| Tests must achieve at least 80% statement and 80% branch coverage for **new** code. | 15 |
+| The mutation score for the tests related to the new door lock functionality should be 90%. | 10 |
+| Automated System Testing Integrated in CI. | 5 |
+| Test-driven development has been followed. | 5 |
+| New features underwent code review. | 5 |
 
 ---
 
@@ -126,18 +126,60 @@ The following describes the required details of the report:
 		- **Overall testing strategy and implementation**: Indicate where your unit, integration, and system tests are implemented. Mention what you chose to test for integration testing, as well as system testing. Which tools/frameworks/techniques did you use to implement your integration and system testing?
 		- **Coverage and mutation score**: Provide a screenshot of your coverage report (you can focus only on the relevant parts of the system). While marking, we will look into the actual report ourselves and make sure you satisfy the coverage criteria. Also, provide a screenshot of your mutation score report. Please mention 2-3 examples of initially live mutations (i.e., mutants that your test suite did not initially kill) and how you improved your test suite to kill these mutants.
 
+## Submission Requirements
+
+- Submit a short (max. 3 pages) PDF version of your report via Canvas.
+- Please name your file using the following format:
+    - `<LabCode>_<GroupName>_G2_Report.pdf`
+    - Example: `D01_m01_G2_Report.pdf`
+- Meets the formatting requirements in the previous section. Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting above.
+
+Your report must be well formatted and not just readable, but professional and **easy** to read.
+
+* Text must be standard and consistent. (10-11pt, Times New Roman or Computer Modern)
+* Images must be sized so that text size is similar inside the image as it is outside of the image (10-11pt).
+* Page orientation must stay consistently Portrait.
+* Two columns.
+* Letter Size (A4 is not allowed).
+* Single spaced inside paragraphs + 6pt (~0.5 lines) after paragraphs.
+
+More details can be found in the MS Word template: [https://www.ieee.org/content/dam/ieee-org/ieee/web/org/conferences/conference-template-letter.docx] or [the MS Word template rendered as a PDF]({attach}conference-template-letter.pdf). If in doubt, make your report look like the template!
+
+More templates: 
+
+* [https://www.ieee.org/conferences/publishing/templates] (Use US Letter only!)
+* [Overleaf template](https://www.overleaf.com/read/qtgwphwhrkft#eaa1dc)
+
+### MS Word & Google Doc Guidelines
+
+- Submit your PDF.
+    - Include your MS Word .docx in your repository OR your Google Doc URL.
+    - Include all the figures in your repository.
+
+### LaTeX Usage Guidelines
+
+- If you are using [Overleaf](https://www.overleaf.com/) (an online collaborative LaTeX editor):  
+    - Submit your PDF report along with the Overleaf project URL.  
+    - Include your LaTeX source files (e.g., `.tex`, figures, `.bib`) in your GitHub repository.  
+
+- If you are using LaTeX locally (instructions for local setup can be found at [MiKTeX](https://miktex.org/)):  
+    - Submit your PDF report to Canvas.  
+    - Include your LaTeX source files (e.g., `.tex`, figures, `.bib`) in your GitHub repository.  
+
+📌 To ensure your LaTeX source file is easy to locate, place it in a logical location within the repository (e.g., a clearly named folder), and create or update the README.md to document the structure and contents.
+
 # Grading Summary
 
-In total, this project is worth 120 points with the following allocation:
+In total, this project is worth 145 points with the following allocation:
 
-- Part 1 (improving test suite): 40 points
-- Part 2 (implementation and verification): 65 points
-- Report: 10 points
+- Part 1 (improving test suite): 42 points
+- Part 2 (implementation and verification): 86 points
+- Report: 12 points
 - Peer assessment: 5 points (Assigned individually)
 
 The report is graded based on its presentation, organization, and how clearly things are described. All the items described in the Report section above must appear in the report.
 
-Each member must assess their team members' contributions on eClass. This is worth 5 points of the total assignment grade and is confidential (results go to the course staff). Note that if we find big discrepencies in contributions or if one team members is negatively rated by all other team members, then we will investigate and regrade team members as needed.
+Each member must assess their team members' contributions on eClass. This is worth 5 points of the total assignment grade and is confidential (results go to the course staff). Note that if we find big discrepancies in contributions or if one team member is negatively rated by all other team members, then we will investigate and regrade team members as needed.
 
 # Questions You Should Be Able to Answer After This Assignment
 
