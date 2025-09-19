@@ -22,10 +22,205 @@
 	font-style: italic;
 	src: url(andika/web/Andika-BoldItalic.woff2);
 }
+@font-face {
+  font-family: "Atkinson Hyperlegible Next";
+  font-weight: bold;
+  font-style: normal;
+  src: url(hyperlegible/AtkinsonHyperlegibleNext-Bold.woff2);
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Next";
+  font-weight: bold;
+  font-style: italic;
+  src: url(hyperlegible/AtkinsonHyperlegibleNext-BoldItalic.woff2);
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Next";
+  font-weight: 800;
+  font-style: normal;
+  src: url(hyperlegible/AtkinsonHyperlegibleNext-ExtraBold.woff2);
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Next";
+  font-weight: 800;
+  font-style: italic;
+  src: url(hyperlegible/AtkinsonHyperlegibleNext-ExtraBoldItalic.woff2);
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Next";
+  font-weight: 200;
+  font-style: normal;
+  src: url(hyperlegible/AtkinsonHyperlegibleNext-ExtraLight.woff2);
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Next";
+  font-weight: 200;
+  font-style: italic;
+  src: url(hyperlegible/AtkinsonHyperlegibleNext-ExtraLightItalic.woff2);
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Next";
+  font-weight: 300;
+  font-style: normal;
+  src: url(hyperlegible/AtkinsonHyperlegibleNext-Light.woff2);
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Next";
+  font-weight: 300;
+  font-style: italic;
+  src: url(hyperlegible/AtkinsonHyperlegibleNext-LightItalic.woff2);
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Next";
+  font-weight: 500;
+  font-style: normal;
+  src: url(hyperlegible/AtkinsonHyperlegibleNext-Medium.woff2);
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Next";
+  font-weight: 500;
+  font-style: italic;
+  src: url(hyperlegible/AtkinsonHyperlegibleNext-MediumItalic.woff2);
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Next";
+  font-weight: normal;
+  font-style: normal;
+  src: url(hyperlegible/AtkinsonHyperlegibleNext-Regular.woff2);
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Next";
+  font-weight: normal;
+  font-style: italic;
+  src: url(hyperlegible/AtkinsonHyperlegibleNext-RegularItalic.woff2);
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Next";
+  font-weight: 600;
+  font-style: normal;
+  src: url(hyperlegible/AtkinsonHyperlegibleNext-SemiBold.woff2);
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Next";
+  font-weight: 600;
+  font-style: italic;
+  src: url(hyperlegible/AtkinsonHyperlegibleNext-SemiBoldItalic.woff2);
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Next";
+  font-weight: 600;
+  font-style: normal;
+  src: url(hyperlegible/AtkinsonHyperlegibleNext-SemiBold.woff2);
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Next";
+  font-weight: 1 1000;
+  font-style: normal;
+  src: url(hyperlegible/AtkinsonHyperlegibleNextVF-Variable.woff2);
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Mono";
+  font-weight: bold;
+  font-style: normal;
+  src: url(hyperlegible/AtkinsonHyperlegibleMono-Bold.woff2);
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Mono";
+  font-weight: bold;
+  font-style: italic;
+  src: url(hyperlegible/AtkinsonHyperlegibleMono-BoldItalic.woff2);
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Mono";
+  font-weight: 800;
+  font-style: normal;
+  src: url(hyperlegible/AtkinsonHyperlegibleMono-ExtraBold.woff2);
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Mono";
+  font-weight: 800;
+  font-style: italic;
+  src: url(hyperlegible/AtkinsonHyperlegibleMono-ExtraBoldItalic.woff2);
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Mono";
+  font-weight: 200;
+  font-style: normal;
+  src: url(hyperlegible/AtkinsonHyperlegibleMono-ExtraLight.woff2);
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Mono";
+  font-weight: 200;
+  font-style: italic;
+  src: url(hyperlegible/AtkinsonHyperlegibleMono-ExtraLightItalic.woff2);
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Mono";
+  font-weight: 300;
+  font-style: normal;
+  src: url(hyperlegible/AtkinsonHyperlegibleMono-Light.woff2);
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Mono";
+  font-weight: 300;
+  font-style: italic;
+  src: url(hyperlegible/AtkinsonHyperlegibleMono-LightItalic.woff2);
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Mono";
+  font-weight: 500;
+  font-style: normal;
+  src: url(hyperlegible/AtkinsonHyperlegibleMono-Medium.woff2);
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Mono";
+  font-weight: 500;
+  font-style: italic;
+  src: url(hyperlegible/AtkinsonHyperlegibleMono-MediumItalic.woff2);
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Mono";
+  font-weight: normal;
+  font-style: normal;
+  src: url(hyperlegible/AtkinsonHyperlegibleMono-Regular.woff2);
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Mono";
+  font-weight: normal;
+  font-style: italic;
+  src: url(hyperlegible/AtkinsonHyperlegibleMono-RegularItalic.woff2);
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Mono";
+  font-weight: 600;
+  font-style: normal;
+  src: url(hyperlegible/AtkinsonHyperlegibleMono-SemiBold.woff2);
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Mono";
+  font-weight: 600;
+  font-style: italic;
+  src: url(hyperlegible/AtkinsonHyperlegibleMono-SemiBoldItalic.woff2);
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Mono";
+  font-weight: 600;
+  font-style: normal;
+  src: url(hyperlegible/AtkinsonHyperlegibleMono-SemiBold.woff2);
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Mono";
+  font-weight: 1 1000;
+  font-style: normal;
+  src: url(hyperlegible/AtkinsonHyperlegibleMonoVF-Variable.woff2);
+}
+
 
 /** Site wide styles */
 
 html {
+  --variable-font: "Atkinson Hyperlegible Next", "Andika", "Arial", sans-serif;
+  --monospace-font: "Atkinson Hyperlegible Mono", "AnonymousPro", 'Consolas', monospace;
   background-color: white;
   color: black;
 }
@@ -79,7 +274,7 @@ time,
 u,
 ul
 {
-    font-family: Andika, sans-serif;
+    font-family: var(--variable-font);
     font-feature-settings: "cv10" 1, "cv39" 1;
     overflow-wrap: normal;
     text-wrap: balance;
@@ -96,7 +291,7 @@ kbd,
 samp,
 var
 {
-    /* font-family: var(--r-code-font); */
+    font-family: var(--monospace-font);
     font-style: normal;
     font-size: 80%;
     overflow-wrap: normal;
