@@ -156,7 +156,7 @@ More templates:
 
 # Grading Summary
 
-In total, this project is worth 145 points with the following allocation:
+In total, G2 is worth 145 points with the following breakdown:
 
 - Part 1 (improving test suite): 42 points
 - Part 2 (implementation and verification): 86 points
