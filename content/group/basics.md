@@ -60,8 +60,8 @@ The following outlines Tartan’s rules for making decisions about the house sta
     - At least one symbol  
 - **R15:** The IoT Controller shall not allow the user to attempt to log in after three failed attempts.  
 - **R16:** The IoT Controller shall allow the user to set the house temperature.  
-  - The minimum temperature allowed is **50 degrees Fahrenheit** (10 degrees Celsius).  
-  - The maximum temperature allowed is **80 degrees Fahrenheit** (27 degrees Celsius).
+    - The minimum temperature allowed is **50 degrees Fahrenheit** (10 degrees Celsius).  
+    - The maximum temperature allowed is **80 degrees Fahrenheit** (27 degrees Celsius).
  
 At this point, you need to only implement one unit test for each selected rule. For the purpose of G1, you can assume independence between the rules (i.e., you do not need to think about situations that combine multiple rules). 
 
@@ -101,13 +101,13 @@ More templates:
 * [https://www.ieee.org/conferences/publishing/templates] (Use US Letter only!)
 * [Overleaf template](https://www.overleaf.com/read/qtgwphwhrkft#eaa1dc)
 
-### MS Word & Google Doc Guidelines
+## MS Word & Google Doc Guidelines
 
 - Submit your PDF.
     - Include your MS Word .docx in your repository OR your Google Doc URL.
     - Include all the figures in your repository.
 
-### LaTeX Usage Guidelines
+## LaTeX Usage Guidelines
 
 - If you are using [Overleaf](https://www.overleaf.com/) (an online collaborative LaTeX editor):  
     - Submit your PDF report along with the Overleaf project URL.  
@@ -122,7 +122,7 @@ More templates:
 
 ## Submission Requirements
 
-- Submit a short (max. 3 pages) PDF version of your report via Canvas.
+- Submit a PDF report (max. 3 pages) via Canvas.
 - Please name your file using the following format:
     - `<LabCode>_<GroupName>_G1_Report.pdf`
     - Example: `D01_m01_G1_Report.pdf`
