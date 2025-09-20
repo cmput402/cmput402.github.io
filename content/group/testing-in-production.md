@@ -128,8 +128,7 @@ The following criteria must be satisfied for the assignment to be accepted as co
 | Criteria (AB Testing) | Grade |
 | :-------------------- | :---- |
 | A reporting system has been implemented that can periodically send reports to customers. | 15 |
-| An experimentation infrastructure has been implemented that tracks which customers should see which variants of the software.  
-**\*NOTE:** At least two report versions are implemented. The report must include a table showing which house received which version, along with the file path to the config.| 20 |
+| An experimentation infrastructure has been implemented that tracks which customers should see which variants of the software. **\*NOTE:** At least two report versions are implemented. The report must include a table showing which house received which version, along with the file path to the config.| 20 |
 | An analysis infrastructure has been implemented that can evaluate the outcome of experiments (given one metric, how did the customer's behaviour change). | 15 |
 | An experiment has been conducted using the experimentation infrastructure, sending different variants of the report to different customers and observing different outcomes. | 20 |
 
@@ -141,9 +140,10 @@ The following criteria must be satisfied for the assignment to be accepted as co
 | Team Participation: All team members contribute meaningfully to the video\***Note**: A team member’s sole contribution to G3 can NOT be solely performing **optional** video editing. All members must contribute to the work of G3 itself. | 2 |
 | Creativity and Engagement (Optional): The team presents the material in an engaging or innovative way | 1 (bonus) |
 
-# Report for Parts 1 & 2
+## README
+In your repository, please include technical documentation of how to launch containers, update containers after a build, and revert containers. Documentation should be organized according to the repository structure. All required commands must be easy to find and clearly explained.
 
-Create a report as a single PDF file that describes your design and experiments (figures, screenshots, etc, do not count toward the page limit). 
+# Report for Parts 1 & 2
 
 The following describes the required details of the report:
 
@@ -152,29 +152,62 @@ The following describes the required details of the report:
 * **Experimentation infrastructure** (\< 1 page text): Describe how you assign experimental conditions: how you implement experimental conditions (e.g., branches, feature flags); how you assign control and treatment groups; and a short justification why you chose this implementation/design.  
 * **Analysis infrastructure** (\<1 page text): Describe how you analyze the outcome of the experiment. We encourage you to include a screenshot showing the outcome of your experiment.
 
-## Code and Scripts and Documentation
+# Submission Requirements
 
-Commit all infrastructure configuration and scripts to your git repository. Commit your code of your reporting feature and experiment
-infrastructure to your git repository. **The final version of your code should be
-in the master branch of each repository, and it should be tagged as `G3-done`**.
+- **Please tag your code with `G3_Done`**
+- Submit a PDF report (max. 4 pages of text, including screenshots/tables, etc) via Canvas.
+- Please name your file using the following format:
+    - `<LabCode>_<GroupName>_G3_Report.pdf`
+    - Example: `D01_m01_G3_Report.pdf`
+- Meets the formatting requirements in the previous section. Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting above.
 
-Include technical documentation of how to launch containers, update containers after a build, and revert containers as part of your repositories README.md file or GitHub wiki. If you choose to use the wiki, make sure that you state that in the README. 
+Your report must be well formatted and not just readable, but professional and **easy** to read.
 
+* Text must be standard and consistent. (10-11pt, Times New Roman or Computer Modern)
+* Images must be sized so that text size is similar inside the image as it is outside of the image (10-11pt).
+* Page orientation must stay consistently Portrait.
+* Two columns.
+* Letter Size (A4 is not allowed).
+* Single spaced inside paragraphs + 6pt (~0.5 lines) after paragraphs.
 
-  
-  
+More details can be found in the MS Word template: [https://www.ieee.org/content/dam/ieee-org/ieee/web/org/conferences/conference-template-letter.docx] or [the MS Word template rendered as a PDF]({attach}conference-template-letter.pdf). If in doubt, make your report look like the template!
+
+More templates: 
+
+* [https://www.ieee.org/conferences/publishing/templates] (Use US Letter only!)
+* [Overleaf template](https://www.overleaf.com/read/qtgwphwhrkft#eaa1dc)
+
+## MS Word & Google Doc Guidelines
+
+- Submit your PDF.
+    - Include your MS Word .docx in your repository OR your Google Doc URL.
+    - Include all the figures in your repository.
+
+## LaTeX Usage Guidelines
+
+- If you are using [Overleaf](https://www.overleaf.com/) (an online collaborative LaTeX editor):  
+    - Submit your PDF report along with the Overleaf project URL.  
+    - Include your LaTeX source files (e.g., `.tex`, figures, `.bib`) in your GitHub repository.  
+
+- If you are using LaTeX locally (instructions for local setup can be found at [MiKTeX](https://miktex.org/)):  
+	- Submit your PDF report to Canvas.  
+    - Include your LaTeX source files (e.g., `.tex`, figures, `.bib`) in your GitHub repository.  
+
+📌 To ensure your LaTeX source file is easy to locate, place it in a logical location within the repository (e.g., a clearly named folder), and create or update the README.md to document the structure and contents.
+
 # Grading Summary
 
-This project is graded out of 155 points according to the following breakdown. 
+In total, G3 is worth 177 points with the following breakdown:
 
-* Continuous Deployment: 60
-* AB Testing: 70
-* Report: 10
-* ReadMe: 10
+* Continuous Deployment: 60  
+* AB Testing: 70  
+* Report: 12  
+* README: 10  
+* Testing Reflection Presentation: 20  
 * Peer assessment: 5 (assigned individually)
 
 The report is graded based on its presentation, organization, and how clearly things are described. All the items described in the Report section above must appear in the report. The ReadMe is graded based on whether all instructions we need to run things are there or not (Be very explicit. Do not assume we know how to run things)
 
-Each member must assess their team members' contributions on eClass. This is worth 5 points of the total assignment grade and is confidential (results go to the course staff). Note that if we find big discrepencies in contributions or if one team members is negatively rated by all other team members, then we will investigate and regrade team members as needed.
+Each member must assess their team members' contributions on eClass. This is worth 5 points of the total assignment grade and is confidential (results go to the course staff). Note that if we find big discrepancies in contributions or if one team member is negatively rated by all other team members, then we will investigate and regrade team members as needed.
 
 Copyright 2021, 2022 Dr. Sarah Nadi. Copyright 2023, 2024 Dr. Hazel Campbell. All rights reserved.
