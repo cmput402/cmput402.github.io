@@ -27,7 +27,7 @@ You will also likely need several additional tools to complete this assignment. 
 
 For all submissions, make sure to explicitly mention your group number and all group member names and CCIDs, as well as your team's GitHub repo. You should also edit your repo's README.md file to include your group name and members.
 
-# **Part 1: Verification of Existing Functionality**
+# Part 1: Verification of Existing Functionality
 
 Write **six test cases** for Tartan  
 
@@ -67,11 +67,11 @@ At this point, you need to only implement one unit test for each selected rule. 
 
 If you find that any of the functionality is not correctly implemented, you must indicate the problem you found in your report and how you fixed it.
 
-# **Part 2: Test Automation Infrastructure**
+# Part 2: Test Automation Infrastructure
 
 Now that you have written your initial tests and understand how to build and run Tartan, you will set up the **infrastructure** necessary to automate building and testing. You will set up and configure [GitHub (GH) Actions](https://github.com/features/actions) in your own repository to be used for the rest of the semester.
 
-## **Infrastructure Setup**
+## Infrastructure Setup
 
 Set up and configure the GH Actions workflow in your repository. As a minimum, your team should:
 
