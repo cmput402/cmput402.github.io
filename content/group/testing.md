@@ -37,7 +37,7 @@ In the first part of this assignment, your task is to improve the quality of you
 
 2. Use **whitebox testing techniques** to evaluate and improve the adequacy of your test suite. In this case, you are asked to write more tests that improve the coverage of your test suite.
 
-# Acceptance criteria for Part 1
+## Acceptance criteria for Part 1
 
 | **Criteria** | **Grade** |
 |---|---:|
@@ -78,7 +78,7 @@ To make it easier for us to spot your test-driven development, you must make you
   
 You must conduct unit testing on the new code and carefully measure coverage. However, given that this is a new feature, you should also perform integration (i.e., tests that combine multiple classes/functionality) and system testing (i.e., end-to-end testing that treats the system as a black box). You must also document the integration and system testing procedures in your report.
 
-# Acceptance criteria (Part 2)
+## Acceptance criteria (Part 2)
 
 The following criteria must be satisfied for Part 2 to be accepted as complete.
 
@@ -98,8 +98,6 @@ The following criteria must be satisfied for Part 2 to be accepted as complete.
 
 You must write your report that describes your verification activities, decisions, and results for both the existing functionality and the new door lock. While marking, we will verify all acceptance criteria by checking both your report and code repository. However, we will not look “deeply” into your code repository, e.g., we will not spend more than 10 minutes trying to get your project to compile and run. 
 
-**Please tag your code with `G2_Done`**
-
 The following describes the required details of the report:
 
 - **Part 1:**
@@ -115,6 +113,7 @@ The following describes the required details of the report:
 
 # Submission Requirements
 
+- **Please tag your code with `G2_Done`**
 - Submit a PDF report (max. 4 pages of text, including screenshots/tables, etc) via Canvas.
 - Please name your file using the following format:
     - `<LabCode>_<GroupName>_G2_Report.pdf`
