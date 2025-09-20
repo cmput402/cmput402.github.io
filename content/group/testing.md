@@ -39,7 +39,7 @@ In the first part of this assignment, your task is to improve the quality of you
 
 # Acceptance criteria for Part 1
 
-| **Criteria** | **Points** |
+| **Criteria** | **Grade** |
 |---|---:|
 | Whitebox and blackbox test design and selection plans are completed and explained. | 12 |
 | Tests must achieve at least 80% statement and 80% branch coverage for the features selected to test. | 15 |
