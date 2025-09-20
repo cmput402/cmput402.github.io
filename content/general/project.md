@@ -1,5 +1,5 @@
 title: Group Project
-date: 2024-01-06
+date: 2025-09-20
 tags: project, grading
 authors: Hazel Victoria Campbell, Sarah Nadi
 status: published
@@ -14,9 +14,9 @@ summary: Tartan Smart Home System
 
 # Group Assignments
 
-* [Group Assignment 1: Basics]({filename}/group/basics-updated.md)
-<!--* [Group Assignment 2: Testing]({filename}/group/testing.md)
-* [Group Assignment 3: Testing in Production]({filename}/group/testing-in-production.md)
+* [Group Assignment 1: Basics]({filename}/group/basics.md)
+* [Group Assignment 2: Testing]({filename}/group/testing.md)
+<!--** [Group Assignment 3: Testing in Production]({filename}/group/testing-in-production.md)
 * [Group Assignment 4: Static Analysis]({filename}/group/static-analysis.md)
 * [Group Assignment 5: Technical Debt]({filename}/group/technical-debt.md)
 
