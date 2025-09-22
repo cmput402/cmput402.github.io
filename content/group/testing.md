@@ -1,5 +1,4 @@
-
-Title: Group Assignment 2: Testing
+title: Group Assignment 2: Testing
 date: 2025-09-19
 tags: labs, policy, grading
 authors: Hazel Victoria Campbell, Sarah Nadi
