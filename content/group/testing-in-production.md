@@ -137,7 +137,7 @@ The following criteria must be satisfied for the assignment to be accepted as co
 | Content Coverage: The video addresses all required topics (testing strategies, CI/CD, AB testing, key takeaways, etc.) | 6 |
 | Depth of Reflection: The team demonstrates critical thinking and insight into their testing practices and learning process. | 6 |
 | Clarity and Communication: The presentation is structured, well-paced, and easy to follow | 5 |
-| Team Participation: All team members contribute meaningfully to the video\***Note**: A team member’s sole contribution to G3 can NOT be solely performing **optional** video editing. All members must contribute to the work of G3 itself. | 2 |
+| Team Participation: All team members contribute meaningfully to the video **Note**: A team member’s sole contribution to G3 can NOT be solely performing **optional** video editing. All members must contribute to the work of G3 itself. | 2 |
 | Creativity and Engagement (Optional): The team presents the material in an engaging or innovative way | 1 (bonus) |
 
 ## README
