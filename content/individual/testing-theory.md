@@ -176,7 +176,7 @@ meet stated requirements, then the new password is rejected and
 
 To create concrete test cases for this function, you will decompose the
 relevant dimensions of the password constraints. Use
-[TSLGenerator](https://github.com/snadi/tslgenerator) to help you
+[TSLGenerator](https://github.com/cmput402/tslgenerator) to help you
 generate the test frames. Your steps are roughly as follows:
 
 1.  Identify equivalence classes for the password inputs.
