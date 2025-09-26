@@ -156,6 +156,7 @@ The following describes the required details of the report:
 
 - **Please tag your code with `G3_Done`**
 - Submit a PDF report (max. 4 pages of text, including screenshots/tables, etc) via Canvas.
+- Include your team's repository link in the report.
 - Please name your file using the following format:
     - `<LabCode>_<GroupName>_G3_Report.pdf`
     - Example: `D01_m01_G3_Report.pdf`
