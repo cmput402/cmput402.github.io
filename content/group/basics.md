@@ -131,6 +131,7 @@ More templates:
 
 ## Your Report Must Include
 
+- Your team's repository link
 - The **six rules** you selected:
   (For each rule, clearly indicate the test name and the file location.)  
     - R1 (mandatory)  
