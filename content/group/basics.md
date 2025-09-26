@@ -123,6 +123,7 @@ More templates:
 ## Submission Requirements
 
 - Submit a PDF report (max. 3 pages) via Canvas.
+- Include your team's repository link in the report.
 - Please name your file using the following format:
     - `<LabCode>_<GroupName>_G1_Report.pdf`
     - Example: `D01_m01_G1_Report.pdf`
