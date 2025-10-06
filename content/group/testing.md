@@ -70,10 +70,10 @@ Integrate the smart door lock and its features with the current system and test 
 
 **While developing the new door lock features, you must follow a test-driven development (TDD) approach**. Use Pull Requests to integrate each new functionality and have another team member review your code. **Each team member must perform a code review of at least 1 PR**.
 
-To make it easier for us to spot your test-driven development, you must make your commits using RED GREEN commits. Make a git commit after each of the following steps:
-- **Red**: Write a failing test and make a commit starting with the word "RED".
-- **Green**: Implement the code to make the test pass and commit with the word "GREEN".
-- **Refactor**: Improve the code without changing behaviour and commit with the word "REFACTOR", ensuring all tests still pass.
+To make it easier for us to spot your test-driven development, you must make your commits using RED GREEN commits. Make a git commit after each of the following steps: 
+1. **Red**: Write a failing test and make a commit starting with the word "RED".
+2. **Green**: Implement the code to make the test pass and commit with the word "GREEN".
+3. **Refactor**: Improve the code without changing behaviour and commit with the word "REFACTOR", ensuring all tests still pass.
   
 You must conduct unit testing on the new code and carefully measure coverage. However, given that this is a new feature, you should also perform integration (i.e., tests that combine multiple classes/functionality) and system testing (i.e., end-to-end testing that treats the system as a black box). You must also document the integration and system testing procedures in your report.
 
