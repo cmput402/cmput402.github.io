@@ -123,9 +123,9 @@ Here is the specification for `lcm`:
         * Some other number if it does not exist:
             * `lcm(a, b) % a != 0 || lcm(a, b) % b != 0` (one or both)
 
-1. Use the specification of `lcm` and of Java `int` to select input values for both inputs. Don't include robustness test values. (The only possible out of range values are negative. We don't care about them for this assignment.) Write your input values down in a table.
-2. Using your test specifications, create a list of test cases. You can write this as a table with inputs and outputs. You do not need the worst-case combination. Use a known-good LCM calculator (such as Wolfram Alpha) to help generate outputs if you need to, or use the rule `lcm(a, a)` is always `== a`. But be sure to follow the spec.
-3. Using your test cases, evaluate ChatGPT's code (listed below). List outputs. What outputs does ChatGPT's implementation fail on?
+1. Use the specification of `lcm` and of Java `int` to select input values for both inputs. Don't include robustness test values. (The only possible out of range values are negative. We don't care about them for this assignment.) Write your input values down in a table, with the reason you selected each value for BVA. (You only need 5 inputs for each argument!)
+2. Using your test specifications, create a list of test cases. You can write this as a table with inputs and *correct* outputs. You do not need the worst-case combination (You only need 5 test cases total.). The inputs should come from the inputs you selected with BVA in the previous step. Use a known-good LCM calculator (such as Wolfram Alpha) to help generate outputs if you need to, or use the rule `lcm(a, a)` is always `== a`. But be sure to follow the spec.
+3. Using your test cases, evaluate ChatGPT's code (listed below). List outputs. What outputs does ChatGPT's implementation fail on?  **Use the code below that ChatGPT gave Dr. Campbell. Do not ask ChatGPT for more code!**
 4. Optional bonus question: Can you fix it without changing the types or adding conditionals?
 
 "write a function to comput the gcd in java. now write one for the lcm", ChatGPT 5, OpenAI, 2025-09-03, https://chatgpt.com/s/t_68c8af7963708191ac39f389c3a14e71
