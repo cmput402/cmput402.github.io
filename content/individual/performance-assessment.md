@@ -8,13 +8,13 @@ summary: Individual Assignment 3: Performance Assessment
 
 [TOC]
 
-<style>
+<!-- <style>
     html body main {
         background-image: url("/theme/draft.png");
         background-repeat: repeat;
         background-size: 100%;
     }
-</style>
+</style> -->
 
 
 # Overview
@@ -80,7 +80,7 @@ precise as possible (e.g., "about 1200 requests").
 # Acceptance criteria for I3
 
 Submit the report as a **PDF** (max 4 pages including any screenshots, plots,
-etc.) with clear subsections to eClass. Keep all sections under half a page if
+etc.) with clear subsections to Canvas. Keep all sections under half a page if
 possible, except for the process description, which might be longer and might
 include additionally screenshots or scripts if that simplifies your
 description.
@@ -95,6 +95,19 @@ The following criteria must be satisfied for I3 to be accepted as complete.
 | Clearly described measurement results (in a form understandable by the target audience of your performance goals). | 10 |
 | A plausible discussion of next steps. | 5 |
 
+
+## Formatting
+
+Your report must be well formatted and not just readable, but professional and **easy** to read.
+
+* Text must be standard and consistent. (10-11pt, Times New Roman or Computer Modern)
+* Images must be sized so that text size is similar inside the image as it is outside of the image (10-11pt).
+* Page orientation must stay consistently Portrait.
+* Letter Size (A4 is not allowed).
+* Single spaced inside paragraphs + 6pt (~0.5 lines) after paragraphs.
+* Questions must be answered in order.
+
+MS Word template: [https://www.ieee.org/content/dam/ieee-org/ieee/web/org/conferences/conference-template-letter.docx]() or [the MS Word template rendered as a PDF]({attach}conference-template-letter.pdf). If in doubt, make your report look like the template! More templates: [https://www.ieee.org/conferences/publishing/templates]() (Use US Letter only!)
 
 # Useful resources
 
