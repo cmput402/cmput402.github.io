@@ -32,7 +32,7 @@ Most parts of software systems do not work in isolation and are difficult to tes
 * Github API [https://github-api.kohsuke.org/](https://github-api.kohsuke.org/)
 * Mockito API [https://site.mockito.org/](https://site.mockito.org/)
 * EasyMock API [http://easymock.org/](http://easymock.org/)
-* Create your repository by accessing [the GitHub classroom assignment](https://classroom.github.com/a/P6dDMwhK)
+* Create your repository by accessing the GitHub classroom assignment: linked on the Canvas
 
 
 # Task: Unit test functionalities of a desktop application
