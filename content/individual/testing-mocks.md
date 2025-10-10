@@ -74,7 +74,7 @@ Submit your solution as follows:
 	c.	Explicitly mention which function you chose to implement robustness for and describe how you assessed that your testing w.r.t robustness is adequate.
 	d.	If you had more time and resources, would you propose additional changes to make testing easier?
 	
-**Please indicate your repo url in your report**
+<p class="longWarning">Please indicate your repository URL in your report, if you don't you will get a zero!</p>
 
 # Requirements and Restrictions
 
