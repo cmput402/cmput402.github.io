@@ -156,10 +156,10 @@ More templates:
 
 # Grading Summary
 
-In total, G2 is worth 145 points with the following breakdown:
+In total, G2 is worth 133 points with the following breakdown:
 
 - Part 1 (improving test suite): 42 points
-- Part 2 (implementation and verification): 86 points
+- Part 2 (implementation and verification): 74 points
 - Report: 12 points
 - Peer assessment: 5 points (Assigned individually)
 
