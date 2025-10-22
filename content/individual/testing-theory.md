@@ -100,7 +100,10 @@ I, <span style="padding-top: 72pt;">______________________________</span> have r
 
 Signature: <span style="padding-top: 72pt;">______________________________</span>
 
-**It is not acceptable to type your name. I need your real signature!**
+<aside class="longWarning">
+<b>It is not acceptable to type your name. I need your real signature!**</b> Do <b>not</b> use the drawing/annotation tool in Canvas, it doesn't actually edit the PDF and whoever marks it will not see it, so it is not acceptable.
+</aside>
+
 
 H. Given your answers above, are you allowed to use an LLM (such as ChatGPT) on the rest of this assignment?
 
@@ -371,5 +374,7 @@ be a part of the control-flow graph.*
 
 *Hint: for each branch in the program, break it down into its
 conditions, then create the MC/DC table for each branch predicate.*
+
+<b>Remember to sign your name in the first question! Do not use the canvas drawing tool.</b>
 
 Copyright 2021, 2022 Dr. Sarah Nadi. Copyright 2023, 2024 Dr. Hazel Campbell. All rights reserved.
