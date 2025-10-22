@@ -8,13 +8,13 @@ summary: Individual Assignment 2: Testing with Mocks
 
 [TOC]
 
-<style>
+<!-- <style>
     html body main {
         background-image: url("/theme/draft.png");
         background-repeat: repeat;
         background-size: 100%;
     }
-</style>
+</style> -->
 
 # Overview
 
@@ -65,7 +65,7 @@ We recommend to add this robustness tactic to all interactions with the GitHub A
 
 # Deliverables
 
-Submit your solution as follows:
+Submit a **PDF** on Canvas that includes your solution as follows:
 
 1.	All the code of implementation and tests regarding both steps should be in your GitHub classroom individual repo; tests should be executed automatically with Gradle.
 2.	Submit a short report with explicit subsections (< 2 pages, hard limit) as a single PDF to eClass, describing the design decisions that you made to enable testing. Specifically: 
@@ -76,6 +76,20 @@ Submit your solution as follows:
 	
 <p class="longWarning">Please indicate your repository URL in your report, if you don't you will get a zero!</p>
 
+
+## Formatting
+
+Your report must be well formatted and not just readable, but professional and **easy** to read.
+
+* Text must be standard and consistent. (10-11pt, Times New Roman or Computer Modern)
+* Images must be sized so that text size is similar inside the image as it is outside of the image (10-11pt).
+* Page orientation must stay consistently Portrait.
+* Letter Size (A4 is not allowed).
+* Single spaced inside paragraphs + 6pt (~0.5 lines) after paragraphs.
+* Questions must be answered in order.
+
+MS Word template: [https://www.ieee.org/content/dam/ieee-org/ieee/web/org/conferences/conference-template-letter.docx]() or [the MS Word template rendered as a PDF]({attach}conference-template-letter.pdf). If in doubt, make your report look like the template! More templates: [https://www.ieee.org/conferences/publishing/templates]() (Use US Letter only!)
+
 # Requirements and Restrictions
 
 You must follow good testing practice.
@@ -85,7 +99,7 @@ You must follow good testing practice.
 	* You should only be mocking the API provided by the "github-api" package.
 * All methods and classes in your production code should be in use by the production code.
 	* Do not add special methods, constructors, or classes that are only ever called by your testing code.
-
+    
 # Grading
 
 Tota: 35 marks

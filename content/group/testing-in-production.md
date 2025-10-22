@@ -91,20 +91,20 @@ Each team must submit a video presentation (max 8 minutes) reflecting on the tes
 Demonstrate your team’s understanding of the software testing lifecycle and highlight key lessons learned. It also provides an opportunity to reflect critically on the development and testing strategies used in your implementation. 
 
 ## Content Guidelines
-* **Team Introduction (\~1 minute)**  
+* **Team Introduction (~1 minute)**  
   * Group name and member names  
   * Brief summary of each person’s contribution  
-* **Testing Learnings (\~2 minutes)**  
+* **Testing Learnings (~2 minutes)**  
   * What testing strategies did you apply (e.g., unit, integration, system)?  
   * How did your team improve test coverage and mutation scores?  
   * What were the main challenges you faced during testing, and how did you address them?  
-* **Continuous Deployment & Experimentation (\~2 minutes)**  
+* **Continuous Deployment & Experimentation (~2 minutes)**  
   * What did you learn from implementing CI/CD pipelines and rollback mechanisms?  
   * What insights did you gain from designing and running AB tests?  
-* **Key Takeaways (\~2 minutes)**  
+* **Key Takeaways (~2 minutes)**  
   * What would your team do differently next time?  
   * Which testing skills do you think will be most useful in future projects or jobs?  
-* **Closing Remarks (\~1 minute)**  
+* **Closing Remarks (~1 minute)**  
   * Final thoughts, acknowledgements, or creative elements (optional)
  
 This component will be assessed based on clarity, depth of reflection, and your ability to communicate testing knowledge effectively. All team members are expected to participate.
