@@ -17,7 +17,7 @@ Learning goals:
 *	Understand what types of defects can and cannot be found with static analysis.
 *	Critically evaluate the results of static analysis tools.
 
-NOTE: You will continue to work on the same Tartan Home repository you created through GitHub Classroom for the previous projects. Please check Canvas for deadlines.
+**NOTE**: You will continue to work on the same Tartan Home repository you created through GitHub Classroom for the previous projects. Please check Canvas for deadlines.
 
 # Resources
 
@@ -52,7 +52,7 @@ Run SpotBugs, PMD and ErrorProne on your Tartan system and analyze the results. 
 
 (5 marks) Peer-rating of group members. This is assigned individually. Note that if we find big discrepencies in contributions or if one team members is negatively rated by all other team members, then we will investigate and regrade team members as needed.
 
-NOTE: Your report must include all of the above components. Incomplete submissions may result in grade deductions. The total points for this assignment is 80 marks.
+**NOTE**: Your report must include all of the above components. Incomplete submissions may result in grade deductions. The total points for this assignment is 80 marks.
 
 # Submission Requirements
 
