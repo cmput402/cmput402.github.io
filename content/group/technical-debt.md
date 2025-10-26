@@ -82,7 +82,7 @@ For more details on the presentation marking rubric, check [Group Assignment 5: 
 
 # Submission Requirements
 
-- Submit a PDF report (max. 4 pages of text, including screenshots/tables, etc) via Canvas.
+- Submit a PDF report (max. 5 pages of text, including screenshots/tables, etc) via Canvas.
 - Submit a PDF of your slides to Canvas along with your report.
 - Include your team's repository link in the report.
 - Please name your file using the following format:
