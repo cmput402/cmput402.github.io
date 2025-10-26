@@ -86,8 +86,8 @@ For more details on the presentation marking rubric, check [Group Assignment 5: 
 - Submit a PDF of your slides to Canvas along with your report.
 - Include your team's repository link in the report.
 - Please name your file using the following format:
-    - `<LabCode>_<GroupName>_G3_Report.pdf`
-    - Example: `D01_m01_G3_Report.pdf`
+    - `<LabCode>_<GroupName>_G5_Report.pdf`
+    - Example: `D01_m01_G5_Report.pdf`
 - Meets the formatting requirements in the previous section. Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting above.
 
 Your report must be well formatted and not just readable, but professional and **easy** to read.
