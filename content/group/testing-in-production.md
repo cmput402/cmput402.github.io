@@ -198,13 +198,13 @@ More templates:
 
 # Grading Summary
 
-In total, G3 is worth 177 points with the following breakdown:
+In total, G3 is worth 177 (176 + 1 bonus) points with the following breakdown:
 
 * Continuous Deployment: 60  
 * AB Testing: 70  
 * Report: 12  
 * README: 10  
-* Testing Reflection Presentation: 20  
+* Testing Reflection Presentation: 20 (19 + 1 bonus)
 * Peer assessment: 5 (assigned individually)
 
 The report is graded based on its presentation, organization, and how clearly things are described. All the items described in the Report section above must appear in the report. The ReadMe is graded based on whether all instructions we need to run things are there or not (Be very explicit. Do not assume we know how to run things)
