@@ -140,7 +140,7 @@ Protective Services [780-492-5050](tel:780-492-5050)
 
 ## Mental Health Supports
 
-All mental health & wellbeing supports offered to undergraduate students are listed on the **[Health + Wellness](https://www.ualberta.ca/campus-life/health-wellness/index.html)** page, including options for peer support programs, medical care, and other wellness programs open to you. Counselling & Clinical Services also offers a range of **[workshops](https://www.ualberta.ca/current-students/counselling/workshops.html)** for you to learn how to be a peer support for other students. 
+All mental health & well-being supports offered to undergraduate students are listed on the **[Health + Wellness](https://www.ualberta.ca/campus-life/health-wellness/index.html)** page, including options for peer support programs, medical care, and other wellness programs open to you. Counselling & Clinical Services also offers a range of **[workshops](https://www.ualberta.ca/current-students/counselling/workshops.html)** for you to learn how to be a peer support for other students. 
 
 If you are unsure how to access a resource, please contact the **[Office of the Dean of Students](https://www.ualberta.ca/dean-of-students/index.html)** for a full listing of services.
 
