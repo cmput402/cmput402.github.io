@@ -50,11 +50,10 @@ You can find a copy of this table on the [Department Course Policies](https://ww
 * Depending on the definition of curved, grades are **not curved.**
     * Some people define *curved* to mean that grades are adjusted based on some statistics (such as the average) performance of all students in the class. In this sense, grades are not curved.
     * Some people define *curved* to mean that grades are adjusted based on distributions, e.g. a fixed number or percent of students get an A. In this sense, grades are not curved.
-    * Some people define *curved* to mean that grades may change depending on what happens during the semester, and in this sense graves are "curved" but this is not the University, Faculty, or Department's definition of curved.
+    * Some people define *curved* to mean that grades may change depending on what happens during the semester, and in this sense grades are "curved" but this is not the University, Faculty, or Department's definition of curved.
     * University Policy: No fixed grade distribution can be used.
         * Class rank and averages are not taken into account when deciding breakpoints.
-            * No system which produces a fixed number or fixed percentage of A's of A's
-is used. 
+            * No system which produces a fixed number or fixed percentage of A's is used. 
     * No system where the breakpoints are moved based on class averages is used.
     * By this system it is entirely possible for every student to get an "A" in the
 course if every student demonstrates "A" level mastery of the course material.
@@ -69,7 +68,7 @@ decided until *after the final exam.*
 * The same breakpoints (final percentage required to get an A, B, C, etc.)
 apply to everyone.
     * If one student demonstrates performance as listed above then all students with the same or higher final percentage will receive the same letter grade or higher.
-    * Example: if one student demonstrates *"Consistently original thinking that extends the material, demonstrated depth and breadth in the material, ability to integrate material with other subjects, ability to analyze and synthesize material at various levels of abstraction."* and has *81*% in the course, than any student with *81*% or higher will earn at least an "A-". This is just an example, an A is not 81% this semester.
+    * Example: if one student demonstrates *"Consistently original thinking that extends the material, demonstrated depth and breadth in the material, ability to integrate material with other subjects, ability to analyze and synthesize material at various levels of abstraction."* and has *81*% in the course, then any student with *81*% or higher will earn at least an "A-". This is just an example, an A is not 81% this semester.
     * Example: If student X gets an overall 82% and deservers an A, and student Y gets an overall 83%, then student Y will also get an A, regardless of what the instructor thinks of them. This is just an example, an A is not 82% this semester.
 * Every semester contains different material since every semester we try to improve the course, and we also need to constantly create new questions and assignments to mitigate cheating.
     * From one semester to the next the breakpoints could be higher or lower.
@@ -79,7 +78,7 @@ apply to everyone.
         * The class average can be an A.
 * Instructors can not decide to make the breakpoints just whatever they want. Breakpoints are validated by at least one of:
     * Associate Chair (Undergraduate Program)
-    * Associate Chain (Graduate Program)
+    * Associate Chair (Graduate Program)
     * Department Chair
 * Almost nothing in the course outline (syllabus) can be changed after the first day of class. Especially not component weights, like the weights of an exam.
 * Everyone in the class can get an A at the same time in the same semester.
