@@ -122,37 +122,7 @@ The following describes the required details of the report:
 
 Your report must be well formatted and not just readable, but professional and **easy** to read.
 
-* Text must be standard and consistent. (10-11pt, Times New Roman or Computer Modern)
-* Images must be sized so that text size is similar inside the image as it is outside of the image (10-11pt).
-* Page orientation must stay consistently Portrait.
-* Two columns.
-* Letter Size (A4 is not allowed).
-* Single spaced inside paragraphs + 6pt (~0.5 lines) after paragraphs.
-
-More details can be found in the MS Word template: [https://www.ieee.org/content/dam/ieee-org/ieee/web/org/conferences/conference-template-letter.docx] or [the MS Word template rendered as a PDF]({attach}conference-template-letter.pdf). If in doubt, make your report look like the template!
-
-More templates: 
-
-* [https://www.ieee.org/conferences/publishing/templates] (Use US Letter only!)
-* [Overleaf template](https://www.overleaf.com/read/qtgwphwhrkft#eaa1dc)
-
-## MS Word & Google Doc Guidelines
-
-- Submit your PDF.
-    - Include your MS Word .docx in your repository OR your Google Doc URL.
-    - Include all the figures in your repository.
-
-## LaTeX Usage Guidelines
-
-- If you are using [Overleaf](https://www.overleaf.com/) (an online collaborative LaTeX editor):  
-    - Submit your PDF report along with the Overleaf project URL.  
-    - Include your LaTeX source files (e.g., `.tex`, figures, `.bib`) in your GitHub repository.  
-
-- If you are using LaTeX locally (instructions for local setup can be found at [MiKTeX](https://miktex.org/)):  
-	- Submit your PDF report to Canvas.  
-    - Include your LaTeX source files (e.g., `.tex`, figures, `.bib`) in your GitHub repository.  
-
-📌 To ensure your LaTeX source file is easy to locate, place it in a logical location within the repository (e.g., a clearly named folder), and create or update the README.md to document the structure and contents.
+The formatting requirements for the report are the same as for [part 1]({filename}basics.md#report-format).
 
 # Grading Summary
 

@@ -58,6 +58,8 @@ Run SpotBugs, PMD and ErrorProne on your Tartan system and analyze the results. 
 
 Your submission will include a PDF report with the above information. The total points for this assignment is 80 marks.
 
+The requirements for the report are the same as for [part 1]({filename}basics.md#report-format).
+
 # Questions you should be able to answer after this assignment
 
 * What is a false positive?

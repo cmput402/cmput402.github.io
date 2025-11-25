@@ -83,6 +83,8 @@ At this point, you are also welcome to explore additional GH Actions that may pr
 
 # Acceptance Criteria for G1
 
+## Report Format
+
 <!-- You must write your report using the [IEEE Conference template](https://www.overleaf.com/read/qtgwphwhrkft#eaa1dc). -->
 
 Your report must be well formatted and not just readable, but professional and **easy** to read.
@@ -93,6 +95,7 @@ Your report must be well formatted and not just readable, but professional and *
 * Two columns.
 * Letter Size (A4 is not allowed).
 * Single spaced inside paragraphs + 6pt (~0.5 lines) after paragraphs.
+* Your name must be included in the authors line in the report.
 
 More details can be found in the MS Word template: [https://www.ieee.org/content/dam/ieee-org/ieee/web/org/conferences/conference-template-letter.docx]() or [the MS Word template rendered as a PDF]({attach}conference-template-letter.pdf). If in doubt, make your report look like the template!
 

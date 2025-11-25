@@ -72,6 +72,8 @@ Note that we will use both the content of your report and presentation to grade 
 *	Discussion of metrics and tool adjustments/customizations: 10 points
 * Peer-rating of group members: 5 points (assigned individually). Ratings are confidential (results go to the course staff). Note that if we find big discrepencies in contributions or if one team members is negatively rated by all other team members, then we will investigate and regrade team members as needed.
 
+The formatting requirements for the report are the same as for [part 1]({filename}basics.md#report-format).
+
 There will be an additional 20 points allocated to the presentation quality, based on the following crtieria:
 
 * Slides are well-designed (readable fonts, not cluttered, not completely text based, meaningful titles, slide numbers etc)

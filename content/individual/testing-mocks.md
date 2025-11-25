@@ -76,7 +76,6 @@ Submit a **PDF** on Canvas that includes your solution as follows:
 	
 <p class="longWarning">Please indicate your repository URL in your report, if you don't you will get a zero!</p>
 
-
 ## Formatting
 
 Your report must be well formatted and not just readable, but professional and **easy** to read.
@@ -87,6 +86,7 @@ Your report must be well formatted and not just readable, but professional and *
 * Letter Size (A4 is not allowed).
 * Single spaced inside paragraphs + 6pt (~0.5 lines) after paragraphs.
 * Questions must be answered in order.
+* Your name must be included in the authors line in the report.
 
 MS Word template: [https://www.ieee.org/content/dam/ieee-org/ieee/web/org/conferences/conference-template-letter.docx]() or [the MS Word template rendered as a PDF]({attach}conference-template-letter.pdf). If in doubt, make your report look like the template! More templates: [https://www.ieee.org/conferences/publishing/templates]() (Use US Letter only!)
 
