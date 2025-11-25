@@ -154,13 +154,15 @@ The following describes the required details of the report:
 
 # Submission Requirements
 
+<p class="longWarning">Your submission must meet the <a href="../general/report.html">formatting requirements</a> Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting requirements.</p>
+
 - **Please tag your code with `G3_Done`**
 - Submit a [Zipped PDF report]({filename}/general/report.md) (max. 4 pages of text, including screenshots/tables, etc) via Canvas.
 - Include your team's repository link in the report.
 - Please name your file using the following format:
     - `<LabCode>_<GroupName>_G3_Report.zip`
     - Example: `D01_m01_G3_Report.zip`
-- Meets the formatting requirements in the previous section. Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting above.
+- Meets the [formatting requirements]({filename}/general/report.md) in the previous section. Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting above.
 
 # Grading Summary
 

@@ -42,11 +42,11 @@ Your report must be well formatted and not just readable, but professional and *
 * Your name must be included in the authors line in the report.
 * Images included in the ZIP and in the PDF in the ZIP.
 
-More details can be found in the MS Word template: [https://www.ieee.org/content/dam/ieee-org/ieee/web/org/conferences/conference-template-letter.docx]() or [the MS Word template rendered as a PDF]({attach}conference-template-letter.pdf). If in doubt, make your report look like the template!
+More details can be found in the MS Word template: <https://www.ieee.org/content/dam/ieee-org/ieee/web/org/conferences/conference-template-letter.docx> or [the MS Word template rendered as a PDF]({attach}conference-template-letter.pdf). If in doubt, make your report look like the template!
 
 More templates: 
 
-* [https://www.ieee.org/conferences/publishing/templates]() (Use US Letter only!)
+* <https://www.ieee.org/conferences/publishing/templates> (Use US Letter only!)
 * [Overleaf template](https://www.overleaf.com/read/qtgwphwhrkft#eaa1dc)
 
 ## MS Word & Google Doc Guidelines
@@ -61,13 +61,5 @@ More templates:
 - Include your LaTex source files in your zip file.  (e.g., `.tex`, figures, `.bib`) 
 
 📌 Ensure your LaTeX source file is easy to locate in the zip file, place it in a logical location.
-
-## Submission Requirements
-
-- Submit a PDF report inside of a ZIP file with the PDF and source via Canvas.
-- Please name your file using the following format:
-    - `<LabCode>_<GroupName>_G1_Report.pdf`
-    - Example: `D01_m01_G1_Report.pdf`
-- Meets the formatting requirements in the previous section. Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting above.
 
 

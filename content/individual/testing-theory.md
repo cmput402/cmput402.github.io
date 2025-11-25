@@ -25,7 +25,7 @@ summary: Individual Assignment 1: Testing Theory
 * The assignment consists of 6 questions
 * Your report must be well formatted and not just readable, but professional and **easy** to read.
 
-<p class="longWarning">Your submission must meet the [formatting requirements]({filename}/general/report.md). Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting requirements.</p>
+<p class="longWarning">Your submission must meet the <a href="../general/report.html">formatting requirements</a> Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting requirements.</p>
 
 # Overview
 

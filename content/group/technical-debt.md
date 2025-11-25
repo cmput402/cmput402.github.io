@@ -84,14 +84,14 @@ For more details on the presentation marking rubric, check [Group Assignment 5: 
 
 # Submission Requirements
 
-<p class="longWarning">Your submission must meet the [formatting requirements]({filename}/general/report.md). Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting requirements.</p>
+<p class="longWarning">Your submission must meet the <a href="../general/report.html">formatting requirements</a> Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting requirements.</p>
 
-- Submit a [Zipped PDF report]({filename}/report.md) (max. 5 pages of text, including screenshots/tables, etc) via Canvas.
+- Submit a [Zipped PDF report]({filename}/general/report.md) (max. 5 pages of text, including screenshots/tables, etc) via Canvas.
 - Submit a PDF of your slides to Canvas along with your report.
 - Include your team's repository link in the report.
 - Please name your file using the following format:
     - `<LabCode>_<GroupName>_G5_Report.zip`
     - Example: `D01_m01_G5_Report.zip`
-- Meets the formatting requirements. Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting above.
+- Meets the [formatting requirements]({filename}/general/report.md). Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting above.
 
 Copyright 2021, 2022 Dr. Sarah Nadi. Copyright 2023, 2024 Dr. Hazel Campbell. All rights reserved.

@@ -65,7 +65,7 @@ We recommend to add this robustness tactic to all interactions with the GitHub A
 
 # Deliverables
 
-<p class="longWarning">Your submission must meet the [formatting requirements]({filename}/general/report.md). Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting requirements.</p>
+<p class="longWarning">Your submission must meet the <a href="../general/report.html">formatting requirements</a> Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting requirements.</p>
 
 Submit a [Zipped PDF Report]({filename}/general/report.md) on Canvas that includes your solution as follows:
 

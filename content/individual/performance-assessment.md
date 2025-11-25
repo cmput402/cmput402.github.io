@@ -79,7 +79,7 @@ precise as possible (e.g., "about 1200 requests").
 
 # Acceptance criteria for I3
 
-<p class="longWarning">Your submission must meet the [formatting requirements]({filename}/general/report.md). Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting requirements.</p>
+<p class="longWarning">Your submission must meet the <a href="../general/report.html">formatting requirements</a> Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting requirements.</p>
 
 Submit the report as a [Zipped PDF Report]({filename}/general/report.md) (max 4 pages including any screenshots, plots,
 etc.) with clear subsections to Canvas. Keep all sections under half a page if
