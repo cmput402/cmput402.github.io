@@ -17,10 +17,10 @@ summary: Tartan Smart Home System
 * [Group Assignment 1: Basics]({filename}/group/basics.md)
 * [Group Assignment 2: Testing]({filename}/group/testing.md)
 * [Group Assignment 3: Testing in Production]({filename}/group/testing-in-production.md)
-<!--** * [Group Assignment 4: Static Analysis]({filename}/group/static-analysis.md)
+* [Group Assignment 4: Static Analysis]({filename}/group/static-analysis.md)
 * [Group Assignment 5: Technical Debt]({filename}/group/technical-debt.md)
 
 # Marking Rubric
 
 * [Group Assignment 5: Presentation Marking Rubric]({filename}/general/presentation-rubric.md)
--->
+

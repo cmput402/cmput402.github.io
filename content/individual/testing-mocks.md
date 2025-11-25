@@ -118,6 +118,6 @@ Usually you should avoid modifying the production code to add wrappers that are 
 
 Keep in mind that there are many different ways to solve everything in this assignment. For example, mockito has `@` decorators that can make your code a lot cleaner than the provided sample code.
 
-You can use the `try (MockedConstrcution` pattern to intercept any constructor. This is using a Java feature called [try-with-resources](https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html). But its not necessary to do unless the "new" you're trying to intercept is in the production code (or somewhere inside of github-api). For any constructors called in the testing code, you can just `mock(Whatever.class)`.
+You can use the `try (MockedConstruction` pattern to intercept any constructor. This is using a Java feature called [try-with-resources](https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html). But its not necessary to do unless the "new" you're trying to intercept is in the production code (or somewhere inside of github-api). For any constructors called in the testing code, you can just `mock(Whatever.class)`.
 
 Copyright 2021, 2022 Dr. Sarah Nadi. Copyright 2023, 2024 Dr. Hazel Campbell. All rights reserved.
