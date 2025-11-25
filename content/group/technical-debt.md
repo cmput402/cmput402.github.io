@@ -84,46 +84,14 @@ For more details on the presentation marking rubric, check [Group Assignment 5: 
 
 # Submission Requirements
 
-- Submit a PDF report (max. 5 pages of text, including screenshots/tables, etc) via Canvas.
+<p class="longWarning">Your submission must meet the [formatting requirements]({filename}/general/report.md). Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting requirements.</p>
+
+- Submit a [Zipped PDF report]({filename}/report.md) (max. 5 pages of text, including screenshots/tables, etc) via Canvas.
 - Submit a PDF of your slides to Canvas along with your report.
 - Include your team's repository link in the report.
 - Please name your file using the following format:
-    - `<LabCode>_<GroupName>_G5_Report.pdf`
-    - Example: `D01_m01_G5_Report.pdf`
-- Meets the formatting requirements in the previous section. Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting above.
-
-Your report must be well formatted and not just readable, but professional and **easy** to read.
-
-* Text must be standard and consistent. (10-11pt, Times New Roman or Computer Modern)
-* Images must be sized so that text size is similar inside the image as it is outside of the image (10-11pt).
-* Page orientation must stay consistently Portrait.
-* Two columns.
-* Letter Size (A4 is not allowed).
-* Single spaced inside paragraphs + 6pt (~0.5 lines) after paragraphs.
-
-More details can be found in the MS Word template: [https://www.ieee.org/content/dam/ieee-org/ieee/web/org/conferences/conference-template-letter.docx] or [the MS Word template rendered as a PDF]({attach}conference-template-letter.pdf). If in doubt, make your report look like the template!
-
-More templates: 
-
-* [https://www.ieee.org/conferences/publishing/templates] (Use US Letter only!)
-* [Overleaf template](https://www.overleaf.com/read/qtgwphwhrkft#eaa1dc)
-
-## MS Word & Google Doc Guidelines
-
-- Submit your PDF.
-    - Include your MS Word .docx in your repository OR your Google Doc URL.
-    - Include all the figures in your repository.
-
-## LaTeX Usage Guidelines
-
-- If you are using [Overleaf](https://www.overleaf.com/) (an online collaborative LaTeX editor):  
-    - Submit your PDF report along with the Overleaf project URL.  
-    - Include your LaTeX source files (e.g., `.tex`, figures, `.bib`) in your GitHub repository.  
-
-- If you are using LaTeX locally (instructions for local setup can be found at [MiKTeX](https://miktex.org/)):  
-	- Submit your PDF report to Canvas.  
-    - Include your LaTeX source files (e.g., `.tex`, figures, `.bib`) in your GitHub repository.  
-
-📌 To ensure your LaTeX source file is easy to locate, place it in a logical location within the repository (e.g., a clearly named folder), and create or update the README.md to document the structure and contents.
+    - `<LabCode>_<GroupName>_G5_Report.zip`
+    - Example: `D01_m01_G5_Report.zip`
+- Meets the formatting requirements. Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting above.
 
 Copyright 2021, 2022 Dr. Sarah Nadi. Copyright 2023, 2024 Dr. Hazel Campbell. All rights reserved.

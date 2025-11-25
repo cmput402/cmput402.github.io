@@ -65,7 +65,9 @@ We recommend to add this robustness tactic to all interactions with the GitHub A
 
 # Deliverables
 
-Submit a **PDF** on Canvas that includes your solution as follows:
+<p class="longWarning">Your submission must meet the [formatting requirements]({filename}/general/report.md). Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting requirements.</p>
+
+Submit a [Zipped PDF Report]({filename}/general/report.md) on Canvas that includes your solution as follows:
 
 1.	All the code of implementation and tests regarding both steps should be in your GitHub classroom individual repo; tests should be executed automatically with Gradle.
 2.	Submit a short report with explicit subsections (< 2 pages, hard limit) as a single PDF to eClass, describing the design decisions that you made to enable testing. Specifically: 

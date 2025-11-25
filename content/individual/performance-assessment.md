@@ -33,11 +33,11 @@ The learning goals of I3 are:
 In this assignment, you are being asked to assess the performance of a web site
 that can list and search book covers (with title, author, categories,
 publication date, cover image, etc.), for which we provide a runnable (through
-Docker Compose) setup in a [GitHub repository](https://github.com/cmput402-w23/bookstore)
+Docker Compose) setup in a [GitHub repository](https://github.com/cmput402/bookstore)
 with about 800 book covers. This assignment intentionally gives you a lot of
 flexibility in deciding what performance characteristics (e.g., throughput,
 latency) are important and how they should be assessed. Make sure to assess
-performance of all [endpoints](https://github.com/cmput402-w23/bookstore#endpoints).
+performance of all [endpoints](https://github.com/cmput402/bookstore#endpoints).
 Justify your decisions, conduct a reasonable performance assessment with
 limited time, and discuss what additional steps you would take with more time.
 
@@ -79,7 +79,9 @@ precise as possible (e.g., "about 1200 requests").
 
 # Acceptance criteria for I3
 
-Submit the report as a **PDF** (max 4 pages including any screenshots, plots,
+<p class="longWarning">Your submission must meet the [formatting requirements]({filename}/general/report.md). Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting requirements.</p>
+
+Submit the report as a [Zipped PDF Report]({filename}/general/report.md) (max 4 pages including any screenshots, plots,
 etc.) with clear subsections to Canvas. Keep all sections under half a page if
 possible, except for the process description, which might be longer and might
 include additionally screenshots or scripts if that simplifies your
@@ -95,20 +97,6 @@ The following criteria must be satisfied for I3 to be accepted as complete.
 | Clearly described measurement results (in a form understandable by the target audience of your performance goals). | 10 |
 | A plausible discussion of next steps. | 5 |
 
-
-## Formatting
-
-Your report must be well formatted and not just readable, but professional and **easy** to read.
-
-* Text must be standard and consistent. (10-11pt, Times New Roman or Computer Modern)
-* Images must be sized so that text size is similar inside the image as it is outside of the image (10-11pt).
-* Page orientation must stay consistently Portrait.
-* Letter Size (A4 is not allowed).
-* Single spaced inside paragraphs + 6pt (~0.5 lines) after paragraphs.
-* Questions must be answered in order.
-* Your name must be included in the authors line in the report.
-
-MS Word template: [https://www.ieee.org/content/dam/ieee-org/ieee/web/org/conferences/conference-template-letter.docx]() or [the MS Word template rendered as a PDF]({attach}conference-template-letter.pdf). If in doubt, make your report look like the template! More templates: [https://www.ieee.org/conferences/publishing/templates]() (Use US Letter only!)
 
 # Useful resources
 

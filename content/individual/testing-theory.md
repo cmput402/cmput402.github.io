@@ -21,24 +21,11 @@ summary: Individual Assignment 1: Testing Theory
 
 # Submission
 
--   Please upload a **pdf** on Canvas.
--   Please draw all diagrams using any program of your choice such that
-    your TA can clearly read it.
--   The assignment consists of 6 questions
+* You must upload a [Zipped PDF report]({filename}/general/report.md) to canvas.
+* The assignment consists of 6 questions
+* Your report must be well formatted and not just readable, but professional and **easy** to read.
 
-## Formatting
-
-Your report must be well formatted and not just readable, but professional and **easy** to read.
-
-* Text must be standard and consistent. (10-11pt, Times New Roman or Computer Modern)
-* Images must be sized so that text size is similar inside the image as it is outside of the image (10-11pt).
-* Page orientation must stay consistently Portrait.
-* Letter Size (A4 is not allowed).
-* Single spaced inside paragraphs + 6pt (~0.5 lines) after paragraphs.
-* Questions must be answered in order.
-* Your name must be included in the authors line in the report.
-
-MS Word template: [https://www.ieee.org/content/dam/ieee-org/ieee/web/org/conferences/conference-template-letter.docx]() or [the MS Word template rendered as a PDF]({attach}conference-template-letter.pdf). If in doubt, make your report look like the template! More templates: [https://www.ieee.org/conferences/publishing/templates]() (Use US Letter only!)
+<p class="longWarning">Your submission must meet the [formatting requirements]({filename}/general/report.md). Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting requirements.</p>
 
 # Overview
 
