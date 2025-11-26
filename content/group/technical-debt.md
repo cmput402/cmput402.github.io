@@ -71,7 +71,7 @@ Note that we will use both the content of your report and presentation to grade 
 
 The formatting requirements for the report are the same as for [part 1]({filename}basics.md#report-format).
 
-There will be an additional 20 points allocated to the presentation quality, based on the following crtieria:
+There will be an additional 20 points allocated to the presentation quality, based on the following criteria:
 
 * Slides are well-designed (readable fonts, not cluttered, not completely text-based, meaningful titles, slide numbers, etc)
 * All team members speak clearly and loudly in an engaging way
