@@ -120,7 +120,8 @@ The following criteria must be satisfied for the assignment to be accepted as co
 
 | Criteria (Continuous Deployment) | Grade |
 | :------------------------------- | :----|
-| The system, including the simulation of houses and the new experimentation infrastructure, is deployed with Docker containers. | 10 |
+| Be sure to include the IP address of your container in your report and make sure the Container is in the Cybera Edmonton zone. | required |
+| The system, including the simulation of houses and the new experimentation infrastructure, is deployed with Docker containers. . | 10 |
 | All changes that pass the automated test suites are *automatically built* as deployable Docker containers. | 15 |
 | The *deployment* of newly built versions of the Docker containers on the virtual machine is either fully automated or can be done with a single command that is described in the repository's README file. | 20 |
 | Reverting the running system to the previous version can be achieved with a single command that is described in the repository's README file. | 15 |
