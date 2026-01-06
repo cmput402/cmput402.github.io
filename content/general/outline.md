@@ -75,9 +75,16 @@ summary: Lecture, Labs, Contact Information, Lecturer, Teaching Assistants, Cour
 
 Course outlines (Syllabus) have moved to centralized UA syllabus repository. 
 
+<h4 id="winter2026">CMPUT 402/502 Winter 2026
+<a href="https://ualberta.simplesyllabusca.com/doc/ghul9zl54/Winter-2026-CMPUT-402-B1-%2880739%29-SOFTWARE-QUALITY?mode=view">UAlberta Syllabus Page</a>
+<a href="https://ualberta.simplesyllabusca.com/api2/doc-pdf/ghul9zl54/Winter-2026-CMPUT-402-B1-%2880739%29-SOFTWARE-QUALITY.pdf?locale=en-US">PDF</a>
+</h4>
+
+<h3 id="oldOutlines">Old Outline</h3>
+
 <h4 id="fall2025">CMPUT 402 Fall 2025 <a href="https://ualberta.simplesyllabusca.com/doc/0pfcwynqm/Fall-2025-CMPUT-402-A1-%2859258%29-SOFTWARE-QUALITY?mode=view">UAlberta Syllabus Page</a> or <a href="https://ualberta.simplesyllabusca.com/api2/doc-pdf/0pfcwynqm/Fall-2025-CMPUT-402-A1-%2859258%29-SOFTWARE-QUALITY.pdf?locale=en-US">PDF</a></h4>
 
-* [Old outlines](/tag/outline.html)
+* [Even Older outlines](/tag/outline.html)
 
 
 
