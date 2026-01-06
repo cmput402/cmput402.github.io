@@ -40,11 +40,11 @@ save_as: index.html
 * You must attend Zoom with your real name (as displayed in Canvas).
 * [How to use Zoom for Students](https://support.eclass.ualberta.ca/index.php?/Knowledgebase/Article/View/422/23/using-zoom-for-students)
 * [The lecture zoom is connected through Canvas.](https://canvas.ualberta.ca/courses/32382/external_tools/282)
-* [Direct Link](https://ualberta-ca.zoom.us/j/95308527326)
+* [Direct Link](https://ualberta-ca.zoom.us/j/99396578834)
 
 # Lecture Material
 
-* Lecture material is on [GDrive](https://drive.google.com/drive/folders/1dc5VqN31j-uYiWZkAvHaKKlSt-8SErqk?usp=drive_link)
+* Lecture material is on [GDrive](https://drive.google.com/drive/folders/1rOgt8zeB5a64Zs9ryGpVIg7U1UHlBRrv?usp=drive_link)
     * You must be logged into your UA account.
 
 # More Stuff
