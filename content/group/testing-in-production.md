@@ -15,7 +15,7 @@ status: published
     }
 </style>
 
-**This is currently a draft. It will be finalized it by Sept 15.** 
+
 
 # Overview
 
