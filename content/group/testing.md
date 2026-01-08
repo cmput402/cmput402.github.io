@@ -7,6 +7,17 @@ status: published
 
 [TOC]
 
+
+<style>
+    html body main {
+        background-image: url("/theme/draft.png");
+        background-repeat: repeat;
+        background-size: 100%;
+    }
+</style>
+
+**This is currently a draft. It will be finalized it by Sept 15.** 
+
 # Overview
 
 In this project, you will extend the **Tartan Home** system with new functionality and test it for functional correctness, code quality, and other quality attributes across **unit**, **integration**, and **system** levels. You will also likely update the testing infrastructure from G1. G2 has two parts.
