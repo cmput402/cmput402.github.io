@@ -6,7 +6,15 @@ status: published
 ----
 
 [TOC]
+<style>
+    html body main {
+        background-image: url("/theme/draft.png");
+        background-repeat: repeat;
+        background-size: 100%;
+    }
+</style>
 
+**This is currently a draft. It will be finalized it by Sept 15.** 
 # Overview 
 
 To complete your evaluation of the Tartan Home Platform and your enhancements, you will assess its technical debt and existing issues using SonarQube with an emphasis on how difficult the software will be to maintain going forward. 
