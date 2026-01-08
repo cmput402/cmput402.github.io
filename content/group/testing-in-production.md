@@ -7,6 +7,16 @@ status: published
 
 [TOC]
 
+<style>
+    html body main {
+        background-image: url("/theme/draft.png");
+        background-repeat: repeat;
+        background-size: 100%;
+    }
+</style>
+
+**This is currently a draft. It will be finalized it by Sept 15.** 
+
 # Overview
 
 In this project, you will build infrastructure for Tartan in order to conduct tests in
