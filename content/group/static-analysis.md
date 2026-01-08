@@ -6,7 +6,15 @@ status: published
 ----
 
 [TOC]
+<style>
+    html body main {
+        background-image: url("/theme/draft.png");
+        background-repeat: repeat;
+        background-size: 100%;
+    }
+</style>
 
+**This is currently a draft. It will be finalized it by Sept 15.** 
 # Overview
 
 In this project, you will evaluate the structural quality and maintainability of your Tartan Home Platform implementation by conducting static code analysis. You will use static analysis tools, including SpotBugs, PMD, and Error Prone, to identify potential defects and code quality issues without executing the system. These tools allow early detection of issues such as poor coding practices, possible null dereferences, and violations of coding standards, helping improve overall code reliability and maintainability.
