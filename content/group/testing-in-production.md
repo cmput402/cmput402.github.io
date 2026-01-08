@@ -117,17 +117,17 @@ The following describes the required details of the report:
 * **Experimentation infrastructure** (\< 1 page text): Describe how you assign experimental conditions: how you implement experimental conditions (e.g., branches, feature flags); how you assign control and treatment groups; and a short justification why you chose this implementation/design.  
 * **Analysis infrastructure** (\<1 page text): Describe how you analyze the outcome of the experiment. We encourage you to include a screenshot showing the outcome of your experiment.
 
-# G3 In-Lab Demo Requirement
-Each group must designate **one** representative to give a **live demo** of their Group Assignment 3 (G3) implementation.
+# G3 walkthrough Requirement
+Each group must designate **one** representative to give a **live walkthrough** of their Group Assignment 3 (G3) implementation, with all team members present.
 
 - The demo will take place **during the lab session after the G3 submission deadline**.
-- The representative should demonstrate and explain:
+- The representative should demonstrate:
   - the continuous deployment setup,
   - the rollback mechanism,
   - and the AB testing/experimentation infrastructure implemented by the team.
 - The demo should clearly show what was implemented and how it works, rather than only describing it verbally.
 
-We will announce the exact lab session in advance via a course announcement.
+We will announce the exact lab session in advance via a course announcement and ask you to sign up for a walkthrough time slot.
 
 **Attendance is mandatory**: If no group member attends and presents the G3 live demo, your G3 will be zero.
 
