@@ -8,7 +8,7 @@ summary: Individual Assignment 1: Testing Theory
 
 
 [TOC]
-<!-- 
+
 <style>
     html body main {
         background-image: url("/theme/draft.png");
@@ -17,7 +17,7 @@ summary: Individual Assignment 1: Testing Theory
     }
 </style>
 
-**This is currently a draft. It will be finalized it by Sept 15.** -->
+<!-- **This is currently a draft. It will be finalized it by Sept 15.** -->
 
 # Submission
 
