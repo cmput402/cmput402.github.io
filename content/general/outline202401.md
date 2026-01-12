@@ -33,7 +33,7 @@ summary: University of Alberta <br> CMPUT 402/501 - Software Quality <br> LEC-B1
     * **Office:** [ATH](http://www.campusmap.ualberta.ca/?b=ath) 4-05
     * **Office hours (ATH 4-05):** Monday, Wednesday, Friday 2:10-2:50PM
     * **Office hours (Zoom):** _(email to make an appointment)_
-* TA Contact Info and Office hours is on eClass
+* TA Contact Info and Office hours is on Canvas
 
 
 # Course Content
@@ -69,12 +69,12 @@ The weekly topic schedule is likely to be updated during the term; please see [t
 
 **Texbook:** There is no required text book for this course.
 Various related resources and readings will be provided by the instructor
-on eClass throughout the course.
+on Canvas throughout the course.
 If you would like to get a comprehensive foundation in software testing, you
 may want to check out the *Introduction to Software Testing* book by Paul
 Ammann and Jeff Offutt.
 
-**Recommended or Optional Learning Resources**: Additional resources may be provided by links from this site or the course eClass page.
+**Recommended or Optional Learning Resources**: Additional resources may be provided by links from this site or the course Canvas page.
 
 **Course Fees**: Students may be required to purchase online hosting if there are technical difficulties. We are planning to provide free hosting. 
 
@@ -209,7 +209,7 @@ This course does not have a final examination: there is no possibility of a re-e
 
 ## Past or Representative evaluative Material
 
-Will be posted on eClass.
+Will be posted on Canvas.
 
 ## Late Policy
 
@@ -248,7 +248,7 @@ Unless otherwise instructed by an instructor, **this course requires attendance 
 
 * Please note that class times for this course will be recorded. Recordings of this course will be used for the purposes of accommodating students who experienced illness, domestic affliction, improving accessibility and will be disclosed to other students enrolled in this section of the class, teaching assistants, university officials, and other professors in the CS department.
 * Students have the right to not participate in the recording and are advised to turn off their cameras and audio prior to recording; they can still participate through text-based chat. It is recommended that students remove all identifiable and personal belongings from the space in which they will be participating.
-* Recordings will be kept until the end of the semester and accessible by eClass, Google Drive, or Zoom Cloud Storage. Please direct any questions about this collection to the instructor of this course.
+* Recordings will be kept until the end of the semester and accessible by Canvas, Google Drive, or Zoom Cloud Storage. Please direct any questions about this collection to the instructor of this course.
 * Recordings will be made available only to students who are unable to attend in person or via Zoom at the time of the leture due to incapacitating illness, severe domestic affliction, duty to accommodate or other compelling reasons.
 
 ## In Case of Emergency

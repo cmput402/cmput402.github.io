@@ -70,7 +70,7 @@ We recommend to add this robustness tactic to all interactions with the GitHub A
 Submit a [Zipped PDF Report]({filename}/general/report.md) on Canvas that includes your solution as follows:
 
 1.	All the code of implementation and tests regarding both steps should be in your GitHub classroom individual repo; tests should be executed automatically with Gradle.
-2.	Submit a short report with explicit subsections (< 2 pages, hard limit) as a single PDF to eClass, describing the design decisions that you made to enable testing. Specifically: 
+2.	Submit a short report with explicit subsections (< 2 pages, hard limit) as a single PDF to Canvas, describing the design decisions that you made to enable testing. Specifically: 
 	a.	Describe which elements you chose to mock and why and where mocking was not necessary or useful.
 	b.	Describe how you refactored the code to make it easier to test.
 	c.	Explicitly mention which function you chose to implement robustness for and describe how you assessed that your testing w.r.t robustness is adequate.
