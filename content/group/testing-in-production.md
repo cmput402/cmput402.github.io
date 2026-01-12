@@ -164,6 +164,6 @@ In total, G3 is worth 157 points with the following breakdown:
 
 The report is graded based on its presentation, organization, and how clearly things are described. All the items described in the Report section above must appear in the report. The ReadMe is graded based on whether all instructions we need to run things are there or not (Be very explicit. Do not assume we know how to run things)
 
-Each member must assess their team members' contributions on eClass. This is worth 5 points of the total assignment grade and is confidential (results go to the course staff). Note that if we find big discrepancies in contributions or if one team member is negatively rated by all other team members, then we will investigate and regrade team members as needed.
+Each member must assess their team members' contributions on Canvas. This is worth 5 points of the total assignment grade and is confidential (results go to the course staff). Note that if we find big discrepancies in contributions or if one team member is negatively rated by all other team members, then we will investigate and regrade team members as needed.
 
 Copyright 2021, 2022 Dr. Sarah Nadi. Copyright 2023, 2024 Dr. Hazel Campbell. All rights reserved.
