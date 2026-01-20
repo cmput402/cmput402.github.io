@@ -143,7 +143,7 @@ In total, G2 is worth 133 points with the following breakdown:
 
 The report is graded based on its presentation, organization, and how clearly things are described. All the items described in the Report section above must appear in the report.
 
-Each member must assess their team members' contributions on eClass. This is worth 5 points of the total assignment grade and is confidential (results go to the course staff). Note that if we find big discrepancies in contributions or if one team member is negatively rated by all other team members, then we will investigate and regrade team members as needed.
+Each member must assess their team members' contributions on Canvas. This is worth 5 points of the total assignment grade and is confidential (results go to the course staff). Note that if we find big discrepancies in contributions or if one team member is negatively rated by all other team members, then we will investigate and regrade team members as needed.
 
 # Questions You Should Be Able to Answer After This Assignment
 
