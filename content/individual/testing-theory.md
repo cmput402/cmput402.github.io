@@ -9,13 +9,13 @@ summary: Individual Assignment 1: Testing Theory
 
 [TOC]
 
-<style>
+<!-- <style>
     html body main {
         background-image: url("/theme/draft.png");
         background-repeat: repeat;
         background-size: 100%;
     }
-</style>
+</style> -->
 
 <!-- **This is currently a draft. It will be finalized it by Sept 15.** -->
 
