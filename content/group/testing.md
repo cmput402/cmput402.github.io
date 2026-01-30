@@ -7,6 +7,16 @@ status: published
 
 [TOC]
 
+
+<!-- <style>
+    html body main {
+        background-image: url("/theme/draft.png");
+        background-repeat: repeat;
+        background-size: 100%;
+    }
+</style> -->
+
+
 # Overview
 
 In this project, you will extend the **Tartan Home** system with new functionality and test it for functional correctness, code quality, and other quality attributes across **unit**, **integration**, and **system** levels. You will also likely update the testing infrastructure from G1. G2 has two parts.
@@ -133,7 +143,7 @@ In total, G2 is worth 133 points with the following breakdown:
 
 The report is graded based on its presentation, organization, and how clearly things are described. All the items described in the Report section above must appear in the report.
 
-Each member must assess their team members' contributions on eClass. This is worth 5 points of the total assignment grade and is confidential (results go to the course staff). Note that if we find big discrepancies in contributions or if one team member is negatively rated by all other team members, then we will investigate and regrade team members as needed.
+Each member must assess their team members' contributions on Canvas. This is worth 5 points of the total assignment grade and is confidential (results go to the course staff). Note that if we find big discrepancies in contributions or if one team member is negatively rated by all other team members, then we will investigate and regrade team members as needed.
 
 # Questions You Should Be Able to Answer After This Assignment
 

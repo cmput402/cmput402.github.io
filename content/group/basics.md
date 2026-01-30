@@ -21,7 +21,7 @@ The following requirements must be satisfied to start this project:
 
 - A development environment with Java, Gradle and Docker support, preferably together with a correctly configured IDE like Eclipse or IntelliJ that allows to execute unit tests and perform coverage analysis on Java projects. (IntelliJ is recommended but not required.)
 
-- All members of the team must accept the assignment on GitHub Classroom on the following [link](https://classroom.github.com/a/cousPqCv). This will create the private repository your team will work on. Make sure to join your assigned team. **The first person from your team to accept the assignment on GitHub Classroom will create the team there. Use the same team name as on Canvas (e.g., m07, w02, etc.)**
+- All members of the team must accept the assignment on GitHub Classroom on Canvas. It will create the private repository your team will work on. Make sure to join your assigned team. **The first person from your team to accept the assignment on GitHub Classroom will create the team there. Use the same team name as on Canvas (e.g., m07, w02, etc.)**
 
 You will also likely need several additional tools to complete this assignment. Please identify and describe these tools in your report.
 

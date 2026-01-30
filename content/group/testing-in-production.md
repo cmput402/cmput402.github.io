@@ -7,6 +7,16 @@ status: published
 
 [TOC]
 
+<style>
+    html body main {
+        background-image: url("/theme/draft.png");
+        background-repeat: repeat;
+        background-size: 100%;
+    }
+</style>
+
+
+
 # Overview
 
 In this project, you will build infrastructure for Tartan in order to conduct tests in
@@ -84,34 +94,6 @@ Specifically:
 - Build an experimentation infrastructure that (a) allows you to send different versions of the reports to different customers or at different times (For example, you can show one set of users their electricity usage using kWh and show another set of users their estimated cost of electricity), (b) analyzes whether these changes have an effect on outcomes of how these customers use the system. You may need to modify how you track different customers, and you may need to collect additional data about outcomes.
 - At the end of the experimentation period, generate some form of visualization (e.g., chart, graph, table, whether as an HTML page or as a downloadable file) that shows which report variant was sent to which customer and how it affected them. For example, the result can be that the users who were shown the cost of electricity usage is now using less electricity than the ones who were shown their kWh usage. You can have the downloadable file in your repository or in Google Drive, and mention the link to the file in your group assignment report.
 
-# Part 3: Testing Reflection Presentation
-Each team must submit a video presentation (max 8 minutes) reflecting on the testing concepts and practices applied throughout G1 to G3. The video should summarize your team’s learning outcomes, testing strategies, and key takeaways. You should conduct the presentation like you would a live presentation to shareholders, e.g., demo important/interesting features of your application and experiment. **You should not need to do any video editing**. A phone camera recording is sufficient.
-
-## Purpose
-Demonstrate your team’s understanding of the software testing lifecycle and highlight key lessons learned. It also provides an opportunity to reflect critically on the development and testing strategies used in your implementation. 
-
-## Content Guidelines
-* **Team Introduction (~1 minute)**  
-  * Group name and member names  
-  * Brief summary of each person’s contribution  
-* **Testing Learnings (~2 minutes)**  
-  * What testing strategies did you apply (e.g., unit, integration, system)?  
-  * How did your team improve test coverage and mutation scores?  
-  * What were the main challenges you faced during testing, and how did you address them?  
-* **Continuous Deployment & Experimentation (~2 minutes)**  
-  * What did you learn from implementing CI/CD pipelines and rollback mechanisms?  
-  * What insights did you gain from designing and running AB tests?  
-* **Key Takeaways (~2 minutes)**  
-  * What would your team do differently next time?  
-  * Which testing skills do you think will be most useful in future projects or jobs?  
-* **Closing Remarks (~1 minute)**  
-  * Final thoughts, acknowledgements, or creative elements (optional)
- 
-This component will be assessed based on clarity, depth of reflection, and your ability to communicate testing knowledge effectively. All team members are expected to participate.
-
-## Submission for video presentation
-
-All teams are required to upload their Testing Reflection Presentation video to **YouTube** as an **Unlisted** video. The video link must be clearly included in the G3 report. The video must be publicly accessible. Failure to provide a working YouTube link will result in grade deductions.
 
 
 # Acceptance Criteria
@@ -121,7 +103,7 @@ The following criteria must be satisfied for the assignment to be accepted as co
 | Criteria (Continuous Deployment) | Grade |
 | :------------------------------- | :----|
 | Be sure to include the IP address of your container in your report and make sure the Container is in the Cybera Edmonton zone. | required |
-| The system, including the simulation of houses and the new experimentation infrastructure, is deployed with Docker containers. . | 10 |
+| The system, including the simulation of houses and the new experimentation infrastructure, is deployed with Docker containers. | 10 |
 | All changes that pass the automated test suites are *automatically built* as deployable Docker containers. | 15 |
 | The *deployment* of newly built versions of the Docker containers on the virtual machine is either fully automated or can be done with a single command that is described in the repository's README file. | 20 |
 | Reverting the running system to the previous version can be achieved with a single command that is described in the repository's README file. | 15 |
@@ -132,14 +114,6 @@ The following criteria must be satisfied for the assignment to be accepted as co
 | An experimentation infrastructure has been implemented that tracks which customers should see which variants of the software. **\*NOTE:** At least two report versions are implemented. The report must include a table showing which house received which version, along with the file path to the config.| 20 |
 | An analysis infrastructure has been implemented that can evaluate the outcome of experiments (given one metric, how did the customer's behaviour change). | 15 |
 | An experiment has been conducted using the experimentation infrastructure, sending different variants of the report to different customers and observing different outcomes. | 20 |
-
-| Criteria (Testing Reflection Presentation) | Grade |
-| :---- | :---- |
-| Content Coverage: The video addresses all required topics (testing strategies, CI/CD, AB testing, key takeaways, etc.) | 6 |
-| Depth of Reflection: The team demonstrates critical thinking and insight into their testing practices and learning process. | 6 |
-| Clarity and Communication: The presentation is structured, well-paced, and easy to follow | 5 |
-| Team Participation: All team members contribute meaningfully to the video **Note**: A team member’s sole contribution to G3 can NOT be solely performing **optional** video editing. All members must contribute to the work of G3 itself. | 2 |
-| Creativity and Engagement (Optional): The team presents the material in an engaging or innovative way | 1 (bonus) |
 
 ## README
 In your repository, please include technical documentation of how to launch containers, update containers after a build, and revert containers. Documentation should be organized according to the repository structure. All required commands must be easy to find and clearly explained.
@@ -153,8 +127,21 @@ The following describes the required details of the report:
 * **Experimentation infrastructure** (\< 1 page text): Describe how you assign experimental conditions: how you implement experimental conditions (e.g., branches, feature flags); how you assign control and treatment groups; and a short justification why you chose this implementation/design.  
 * **Analysis infrastructure** (\<1 page text): Describe how you analyze the outcome of the experiment. We encourage you to include a screenshot showing the outcome of your experiment.
 
-# Submission Requirements
+# G3 walkthrough Requirement
+Each group must designate **one** representative to give a **live walkthrough** of their Group Assignment 3 (G3) implementation, with all team members present.
 
+- The demo will take place **during the lab session after the G3 submission deadline**.
+- The representative should demonstrate:
+  - the continuous deployment setup,
+  - the rollback mechanism,
+  - and the AB testing/experimentation infrastructure implemented by the team.
+- The demo should clearly show what was implemented and how it works, rather than only describing it verbally.
+
+We will announce the exact lab session in advance via a course announcement and ask you to sign up for a walkthrough time slot.
+
+**Attendance is mandatory**: If no group member attends and presents the G3 live demo, your G3 will be zero.
+
+# Submission Requirements
 <p class="longWarning">Your submission must meet the <a href="../general/report.html">formatting requirements</a> Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting requirements.</p>
 
 - **Please tag your code with `G3_Done`**
@@ -167,17 +154,16 @@ The following describes the required details of the report:
 
 # Grading Summary
 
-In total, G3 is worth 177 (176 + 1 bonus) points with the following breakdown:
+In total, G3 is worth 157 points with the following breakdown:
 
 * Continuous Deployment: 60  
 * AB Testing: 70  
 * Report: 12  
 * README: 10  
-* Testing Reflection Presentation: 20 (19 + 1 bonus)
 * Peer assessment: 5 (assigned individually)
 
 The report is graded based on its presentation, organization, and how clearly things are described. All the items described in the Report section above must appear in the report. The ReadMe is graded based on whether all instructions we need to run things are there or not (Be very explicit. Do not assume we know how to run things)
 
-Each member must assess their team members' contributions on eClass. This is worth 5 points of the total assignment grade and is confidential (results go to the course staff). Note that if we find big discrepancies in contributions or if one team member is negatively rated by all other team members, then we will investigate and regrade team members as needed.
+Each member must assess their team members' contributions on Canvas. This is worth 5 points of the total assignment grade and is confidential (results go to the course staff). Note that if we find big discrepancies in contributions or if one team member is negatively rated by all other team members, then we will investigate and regrade team members as needed.
 
 Copyright 2021, 2022 Dr. Sarah Nadi. Copyright 2023, 2024 Dr. Hazel Campbell. All rights reserved.

@@ -44,7 +44,7 @@ as database engine. Python 3.7 is used to execute the house simulator/hub.
 * MySQL (Windows): https://downloads.mysql.com/archives/installer/ Change version to 8.0
 * Docker (Ubuntu): https://docs.docker.com/engine/install/ubuntu/
 * Docker Desktop (Docker for Windows): https://docs.docker.com/docker-for-windows/install/
-* Windows Subsytem for Linux (needed for Docker Desktop): https://docs.microsoft.com/en-us/windows/wsl/install-win10#step-4---download-the-linux-kernel-update-package
+* Windows Subsystem for Linux (needed for Docker Desktop): https://docs.microsoft.com/en-us/windows/wsl/install-win10#step-4---download-the-linux-kernel-update-package
 
 ## Database Configuration
 
