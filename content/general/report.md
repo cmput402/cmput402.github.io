@@ -21,9 +21,13 @@ You must submit your report as a ZIP archive including:
 - Please name your file using the following format:
     - `<LabCode>_<GroupName>_G1_Report.zip`
     - Example: `D01_m01_G1_Report.zip`
+    - `<YourName>_I1_Report.zip`
+    - Example: `Hazel_Campbell_I1_Report.zip`
 - The PDF inside the zip should have a similar name:
     - `<LabCode>_<GroupName>_G1_Report.pdf`
     - Example: `D01_m01_G1_Report.pdf`
+    - `<YourName>_I1_Report.pdf`
+    - Example: `Hazel_Campbell_I1_Report.pdf`
 
 
 # Report Format
