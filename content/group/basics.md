@@ -25,7 +25,7 @@ The following requirements must be satisfied to start this project:
 
 You will also likely need several additional tools to complete this assignment. Please identify and describe these tools in your report.
 
-For all submissions, make sure to explicitly mention your group number and all group member names and CCIDs, as well as your team's GitHub repo. You should also edit your repo's README.md file to include your group name and members.
+For all submissions, make sure to explicitly mention your group number and all group member names and CCIDs, as well as your team's GitHub repo. You should also edit your repo's README.md file to include your group name and members (names and CCIDs).
 
 # Part 1: Verification of Existing Functionality
 
