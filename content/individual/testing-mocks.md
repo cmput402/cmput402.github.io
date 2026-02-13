@@ -104,7 +104,7 @@ You must follow good testing practice.
     
 # Grading
 
-Tota: 35 marks
+Total: 35 marks
 
 * Step 1 (15 marks, 3 for each functionality)
 * Step 2 (10 marks, 5 for adding robustness + 5 for testing it)
@@ -116,7 +116,7 @@ You will need to change private visibility to protected visibility in order to a
 
 Mockito and github-api both use Java bytecode manipulation. Mockito does this to help inject dependencies. However, this can come into conflict with methods in the github-api that are decorated with `@WithBridgeMethods`. One example is the `GHIssue.comment` method. This can result in an error like `Date cannot be returned by getCreatedAt() getCreatedAt() should return String`. This error message doesn't really make sense because the application bytecode was manipulated *after* being compiled. In order to solve this, you will need to create a wrapper for `GHIssue`, use the wrapper in the production code, and then mock the wrapper instead of the wrapper class from github-api in the test code. You will also need to do this for any other methods that are decorated with `@WithBridgeMethods` in the [github-api code](https://github.com/hub4j/github-api/tree/main/src/main/java/org/kohsuke/github). So if you get a strange error with impossible types, check the code of github-api to see if it uses such a decorator, and add a wrapper class as needed. This is not the only way to solve this problem, but it's the easiest way we've found so far. *Wrapper classes shouldn't do anything but just call the class they are wrapping.*
 
-Usually you should avoid modifying the production code to add wrappers that are only necessary for the test code to work. However, in this case it is unavoidable becuase the methods mockito and the github-api code use are in conflict. Similar conflicts can also arise in other programming languages such as Python.
+Usually you should avoid modifying the production code to add wrappers that are only necessary for the test code to work. However, in this case it is unavoidable because the methods mockito and the github-api code use are in conflict. Similar conflicts can also arise in other programming languages such as Python.
 
 Keep in mind that there are many different ways to solve everything in this assignment. For example, mockito has `@` decorators that can make your code a lot cleaner than the provided sample code.
 
