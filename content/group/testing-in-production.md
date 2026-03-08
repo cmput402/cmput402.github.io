@@ -122,10 +122,10 @@ In your repository, please include technical documentation of how to launch cont
 
 The following describes the required details of the report:
 
-* **Reporting feature** (\<1 page text): Describe your reporting feature and the goal for which you are optimizing (e.g., reducing energy consumption); include an example of a report.  
-* **Experiment design** (\< 1 page text): Describe your experiment(s): what are the experimental conditions (independent variables) and measured outcomes (dependent variables), and how you measure those.  
-* **Experimentation infrastructure** (\< 1 page text): Describe how you assign experimental conditions: how you implement experimental conditions (e.g., branches, feature flags); how you assign control and treatment groups; and a short justification why you chose this implementation/design.  
-* **Analysis infrastructure** (\<1 page text): Describe how you analyze the outcome of the experiment. We encourage you to include a screenshot showing the outcome of your experiment.
+* **Reporting feature** (<1 page text): Describe your reporting feature and the goal for which you are optimizing (e.g., reducing energy consumption); include an example of a report.  
+* **Experiment design** (< 1 page text): Describe your experiment(s): what are the experimental conditions (independent variables) and measured outcomes (dependent variables), and how you measure those.  
+* **Experimentation infrastructure** (< 1 page text): Describe how you assign experimental conditions: how you implement experimental conditions (e.g., branches, feature flags); how you assign control and treatment groups; and a short justification why you chose this implementation/design.  
+* **Analysis infrastructure** (<1 page text): Describe how you analyze the outcome of the experiment. We encourage you to include a screenshot showing the outcome of your experiment.
 
 # G3 walkthrough Requirement
 Each group must designate **one** representative to give a **live walkthrough** of their Group Assignment 3 (G3) implementation, with all team members present.
