@@ -76,7 +76,9 @@ Submit a [Zipped PDF Report]({filename}/general/report.md) on Canvas that includ
 	c.	Explicitly mention which function you chose to implement robustness for and describe how you assessed that your testing w.r.t robustness is adequate.
 	d.	If you had more time and resources, would you propose additional changes to make testing easier?
 	
-<p class="longWarning">Please indicate your repository URL in your report, if you don't you will get a zero!</p>
+<p class="longWarning">Please indicate your repository URL in your report, if you don't you will get a zero!
+
+Do not commit/push a gradle.properties with a hardcoded Java home. This will prevent the TAs from building and running your tests. Please verify that you can git clone your repo and gradlew build test on Ubuntu.</p>
 
 ## Formatting
 
