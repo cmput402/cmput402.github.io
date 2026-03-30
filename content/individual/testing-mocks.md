@@ -106,7 +106,7 @@ You must follow good testing practice.
     
 # Grading
 
-Tota: 35 marks
+Total: 35 marks
 
 * Step 1 (15 marks, 3 for each functionality)
 * Step 2 (10 marks, 5 for adding robustness + 5 for testing it)
