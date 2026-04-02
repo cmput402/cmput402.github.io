@@ -70,7 +70,7 @@ JMeter and not change anything in the code. However, you are welcome to explore
 the source code, as well as the data set, if you want to.
 
 **Fatal errors**. It is possible that the application will crash due to too
-heavy load.  That's an example of stress testing where your goal is to estimate
+heavy load.  That's an example of load testing where your goal is to estimate
 what is the maximum load that the system can handle before crashing. If you
 experience this issue, try to determine what is the maximum load it can handle
 before failing (e.g., number of requests) and mention that in the report. You
