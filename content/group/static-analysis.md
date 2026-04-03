@@ -50,7 +50,7 @@ To run **ErrorProne**, follow the [Gradle ErrorProne Plugin guide](https://githu
 Run SpotBugs, PMD and ErrorProne on your Tartan system and analyze the results. Specifically:
 
 1. (5 marks) Report how many errors/warnings were reported by each tool and in which categories (note that the category names or how errors/warnings are categorized in each tool may be different for each tool).
-2. (5 marks) Report the similarities and discrepencies between the tools. Are there errors/warnings that one tool reports but the other doesn't (give at least 3 examples, if available)? Are there error/warnings that all three tools report? (give at least 3 examples, if available)
+2. (5 marks) Report the similarities and discrepancies between the tools. Are there errors/warnings that one tool reports but the other doesn't (give at least 3 examples, if available)? Are there error/warnings that all three tools report? (give at least 3 examples, if available)
 3. (5 marks) Report which Java class(es) from Tartan seems most problematic. Explain your result.
 4. (60 marks total) Select 10 reported problems, distributed across the three tools, to analyze in more detail. For each problem, report
 	* (2 marks) The identifying information for the bug, including its category, priority, file name, and line number.
@@ -58,13 +58,13 @@ Run SpotBugs, PMD and ErrorProne on your Tartan system and analyze the results. 
 	* (2 marks) A characterization of the bug in terms of whether it is an actual problem, false positive, or irrelevant true positive. Explain your reasoning.
 	* (1 mark) How you fixed the problem (if you decided it was actually a problem)
 
-(5 marks) Peer-rating of group members. This is assigned individually. Note that if we find big discrepencies in contributions or if one team members is negatively rated by all other team members, then we will investigate and regrade team members as needed.
+(5 marks) Peer-rating of group members. This is assigned individually. Note that if we find big discrepancies in contributions or if one team member is negatively rated by all other team members, then we will investigate and regrade team members as needed.
 
 **NOTE**: Your report must include all of the above components. Incomplete submissions may result in grade deductions. The total points for this assignment is 80 marks.
 
 # Submission Requirements
 
-<p class="longWarning">Your submission must meet the <a href="../general/report.html">formatting requirements</a> Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting requirements.</p>
+<p class="longWarning">Your submission must meet the <a href="../general/report.html">formatting requirements</a>. Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting requirements.</p>
 
 - Submit a [Zipped PDF report]({filename}/general/report.md) (max. 4 pages of text, including screenshots/tables, etc) via Canvas.
 - Include your team's repository link in the report.

@@ -105,7 +105,7 @@ The following criteria must be satisfied for Part 2 to be accepted as complete.
 
 # Report for Parts 1 & 2
 
-<p class="longWarning">Your submission must meet the <a href="../general/report.html">formatting requirements</a> Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting requirements.</p>
+<p class="longWarning">Your submission must meet the <a href="../general/report.html">formatting requirements</a>. Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting requirements.</p>
 
 You must write your report that describes your verification activities, decisions, and results for both the existing functionality and the new door lock. While marking, we will verify all acceptance criteria by checking both your report and code repository. However, we will not look “deeply” into your code repository, e.g., we will not spend more than 10 minutes trying to get your project to compile and run. 
 

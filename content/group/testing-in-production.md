@@ -142,7 +142,7 @@ We will announce the exact lab session in advance via a course announcement and 
 **Attendance is mandatory**: If no group member attends and presents the G3 live demo, your G3 will be zero.
 
 # Submission Requirements
-<p class="longWarning">Your submission must meet the <a href="../general/report.html">formatting requirements</a> Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting requirements.</p>
+<p class="longWarning">Your submission must meet the <a href="../general/report.html">formatting requirements</a>. Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting requirements.</p>
 
 - **Please tag your code with `G3_Done`**
 - Submit a [Zipped PDF report]({filename}/general/report.md) (max. 4 pages of text, including screenshots/tables, etc) via Canvas.

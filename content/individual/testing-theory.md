@@ -25,7 +25,7 @@ summary: Individual Assignment 1: Testing Theory
 * The assignment consists of 6 questions
 * Your report must be well formatted and not just readable, but professional and **easy** to read.
 
-<p class="longWarning">Your submission must meet the <a href="../general/report.html">formatting requirements</a> Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting requirements.</p>
+<p class="longWarning">Your submission must meet the <a href="../general/report.html">formatting requirements</a>. Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting requirements.</p>
 
 # Overview
 
@@ -175,7 +175,7 @@ generate the test frames. Your steps are roughly as follows:
 1.  Identify equivalence classes for the password inputs.
 2.  Translate the specification from Step 1 to TSL's format and generate
     an all-pairs test specification.
-3.  Identify inadmissable combinations or opportunities to reduce your
+3.  Identify inadmissible combinations or opportunities to reduce your
     test cases, flag them and adjust your constraints or classes, then
     regenerate tests.
 
