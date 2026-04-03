@@ -171,7 +171,7 @@ This [Self-Care Guide](https://drive.google.com/file/d/1t5fqgXCG369tt5hDxrzQuvlT
 
 Building a strong social network can greatly benefit your mental health.
 
--   **Students Groups: [BearsDen](https://alberta.campuslabs.ca/engage/)** is a one-stop online spot for all student groups on campus. Students can search for events or groups that suit their interests. Students Groups: [Rubric](https://www.su.ualberta.ca/this-is-how-you-get-involved/student-groups/) is a one-stop online spot for all student groups on campus. Students can search for events or groups that suit their interests.
+-   **Students Groups: [Rubric](https://www.su.ualberta.ca/this-is-how-you-get-involved/student-groups/)** is a one-stop online spot for all student groups on campus. Students can search for events or groups that suit their interests.
 
 -   **Campus Events:** Campus events are posted by a variety of groups. Commonly, students can find events on **[uab.ca/events](https://www.ualberta.ca/en/events/index.html#sort=relevancy)**, **[uasuevents.ca](https://www.su.ualberta.ca/events/)**, **[the Digest](https://apps.ualberta.ca/ezpost/archive)** or go to their respective **[faculty association's web page](https://www2.su.ualberta.ca/governance/cofa/)** for upcoming events.
 
