@@ -127,7 +127,7 @@ The following describes the required details of the report:
 - **Please tag your code with `G2_Done`**
 - Submit a [Zipped PDF report]({filename}/general/report.md) (max. 4 pages of text, including screenshots/tables, etc) via Canvas.
 - Include your team's repository link in the report.
-- Please name your file using the follfowing format:
+- Please name your file using the following format:
     - `<LabCode>_<GroupName>_G2_Report.zip`
     - Example: `D01_m01_G2_Report.zip`
 - Meets the [formatting requirements]({filename}/general/report.md). Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting above.
