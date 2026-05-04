@@ -79,7 +79,7 @@ Unless your question is personal (E.g., you are feeling unwell and require an EA
 * Be polite, this is not a complaint forum.
 * Follow the [online etiquette guidelines]({attach}online_etiquette_guidelines.pdf).
 
-[The discussion forum is on Canvas.](https://canvas.ualberta.ca/courses/32382/discussion_topics)
+[The discussion forum is on Canvas.](https://canvas.ualberta.ca/courses/32382/discussion_topics/00000)
 
 # Labs Office Hours
 
@@ -217,4 +217,3 @@ People on unofficial discussion forums such as discord **sometimes lie**. There 
 Multiple lies like the above happen on Discord or another unofficial site for this class **every semester**.
 
 Behaviour such as harassment, bullying, threats, intimidation, insults, racism, lying are still subject to sanctions by the [Student Conduct Policy](https://policiesonline.ualberta.ca/PoliciesProcedures/Pages/DispPol.aspx?PID=190&s=https://policiesonline.ualberta.ca/PoliciesProcedures/Pages/Academic.aspx) and the [Student Academic Integrity Policy](https://policiesonline.ualberta.ca/PoliciesProcedures/Pages/DispPol.aspx?PID=193&s=https://policiesonline.ualberta.ca/PoliciesProcedures/Pages/Academic.aspx). However, because the instructor and University has no control of these platforms we also do not have any way to stop or control harassment, bullying, threats, intimidation, insults, racism, lying.
-
