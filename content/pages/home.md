@@ -16,11 +16,11 @@ save_as: index.html
 
 * **You need to be logged in as your University of Alberta CCID/email account to view it.** 
 * Please remember that this is only a plan, and sometimes plans change.
-* The course schedule is updated in this [Google Sheet](https://docs.google.com/spreadsheets/d/1TpxlAAfvP_fHVDBQAfCUuGJaRI7mSskQA8OojHDJgQI/edit?usp=sharing).
+* The course schedule is updated in this [Google Sheet](https://docs.google.com/spreadsheets/d/1sgbyxsapiHyxuBmkHtWGN_PgZbbLnfFiqsUIGSlHyBk/edit?usp=sharing).
 
 # Canvas
 
-[The current Canvas page is here.](https://canvas.ualberta.ca/courses/32382)
+[The current Canvas page is here.](https://canvas.ualberta.ca/courses/33421)
 
 * Grades
 * Submissions
@@ -30,7 +30,7 @@ save_as: index.html
 
 ## News & Notices
 
-[The latest news and notices for students.](https://canvas.ualberta.ca/courses/32382/announcements) Check this regularly!
+[The latest news and notices for students.](https://canvas.ualberta.ca/courses/33421/announcements) Check this regularly!
 
 ## Lecture Zoom
 
@@ -41,8 +41,8 @@ save_as: index.html
 * You must be in Edmonton to take this course.
 * You must attend Zoom with your real name (as displayed in Canvas).
 * [How to use Zoom for Students](https://support.eclass.ualberta.ca/index.php?/Knowledgebase/Article/View/422/23/using-zoom-for-students)
-* [The lecture zoom is connected through Canvas.](https://canvas.ualberta.ca/courses/32382/external_tools/282)
-* [Direct Link](https://ualberta-ca.zoom.us/j/99396578834)
+* [The lecture zoom is connected through Canvas.](https://canvas.ualberta.ca/courses/33421/external_tools/282)
+* [Direct Link](https://ualberta-ca.zoom.us/j/95893996808)
 
 # Lecture Material
 

@@ -58,6 +58,7 @@ for (dirpath, dirnames, filenames) in root.walk():
             continue
         filepath = dirpath / filename
         temppath = dirpath / (filename + '.tmp')
+        assert len(str(temppath)) > len(str(filepath))
         binary = subprocess.run(["git", "check-attr", "-z", "binary", str(filepath)], capture_output=True, stderr=None).stdout.split(b'\0')[2]
         if binary == b'set':
             continue
@@ -95,8 +96,21 @@ for (dirpath, dirnames, filenames) in root.walk():
                             print("Warning: found", m.group(0), "in", filepath, "line", ln, file=sys.stderr)
                             print(l, file=sys.stderr)
                         ln += 1
+        changed = False
         for line in difflib.unified_diff(slurp.splitlines(keepends=True), processed.splitlines(keepends=True), fromfile=str(filepath), tofile=str(temppath)):
+            changed = True
             sys.stdout.buffer.write(line.encode('utf8'))
+        if COMMIT and changed:
+            resp=input("Write y/n? ")
+            if resp.lower().startswith('y'):
+                assert not temppath.exists()
+                assert filepath.exists()
+                with temppath.open('wt', encoding='utf8') as f:
+                    f.write(processed)
+                assert temppath.exists()
+                temppath.replace(filepath)
+                assert not temppath.exists()
+                assert filepath.exists()
 
 
         
