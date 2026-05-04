@@ -103,4 +103,4 @@ The following criteria must be satisfied for I3 to be accepted as complete.
 - [How to Use JMeter for Performance and Load Testing](https://www.guru99.com/jmeter-performance-testing.html),
 - [How to Run a Stress Test in Jmeter](https://www.blazemeter.com/blog/how-perform-stress-test-jmeter),
 - [API Load Testing Best Practices](https://www.soapui.org/learn/load-testing/)
-
+- [JMeter Tutorial](https://youtu.be/g7456NnULME)
