@@ -6,9 +6,11 @@ status: published
 summary: Individual Assignments
 ----
 
+[TOC]
+
 # Participation
 
-* CMPUT 402: Participation marks will be marked out of 5 points.
+* CMPUT 402: Participation marks will be marked out of 6 points.
 * At most one point can be earned per lecture.
 * A point can be earned by answering an instructor's question during class.
 * A point can be earned by asking a thoughtful question about the course material during class.

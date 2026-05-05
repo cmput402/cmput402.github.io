@@ -11,7 +11,7 @@ summary: Lab Procedure, Lab Assignments, Lab Marking
 
 # Lab Things Go Here
 
-Lab material is on [Google Drive](https://drive.google.com/drive/folders/1A3YgOCOQoqlDrmyqtdUmxXiRN79wrx-d?usp=sharing).
+Lab material is on [Google Drive](https://drive.google.com/drive/u/0/folders/1jnynUVFnQqHDBiIkH1azOP0UOd5K191t).
 
 You must be logged into your UA account to access the Google Drive.
 

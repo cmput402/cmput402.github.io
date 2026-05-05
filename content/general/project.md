@@ -8,7 +8,7 @@ summary: Tartan Smart Home System
 
 # Tartan Smart Home System
 
-* [System Description PDF](https://drive.google.com/file/d/1X3aNaUjP_uidK_rbhgtlCmfRCBgI7s3I/view?usp=drive_link) on GDrive you must be logged into your UA account
+* [System Description PDF](https://drive.google.com/file/d/1dvsuzfHXDcOBVdF0yTw3Ze0W7aaWk8UD/view?usp=drive_link) on GDrive you must be logged into your UA account
     * **Warning** links are out of date!
 * [Tartan Build Instructions]({filename}/tartan/build.md)
 
