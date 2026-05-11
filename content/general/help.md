@@ -79,7 +79,7 @@ Unless your question is personal (E.g., you are feeling unwell and require an EA
 * Be polite, this is not a complaint forum.
 * Follow the [online etiquette guidelines]({attach}online_etiquette_guidelines.pdf).
 
-[The discussion forum is on Canvas.](https://canvas.ualberta.ca/courses/33421/discussion_topics/276049)
+[The discussion forum is a Google Group.](https://groups.google.com/a/ualberta.ca/g/grp-summer26-cmput402b-lec-c1)
 
 # Labs Office Hours
 

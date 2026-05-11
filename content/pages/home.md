@@ -11,6 +11,8 @@ save_as: index.html
     * [Wellness Supports]({filename}/general/help.md#wellness-supports)
 * [Course Schedule](#schedule)
 * [Reference Material, eBooks, & Resources]({filename}/general/resources.md)
+* [TAs & Office Hours](https://docs.google.com/document/d/1lmzoIIUCQkn11pFk6OFiS3nzwop0fvvWN3zFIk1uJxY/edit?usp=sharing (you must be logged into your UA account to view)
+* [Discussion & Announcements]({filename}/general/help.md#discussion-forum)
 
 # Schedule 
 
@@ -20,13 +22,9 @@ save_as: index.html
 
 # Canvas
 
-[The current Canvas page is here.](https://canvas.ualberta.ca/courses/33421)
+* We are not using Canvas. We will be turning in homework by Google Form. IDK what we are going to do about grades!
 
-* Grades
-* Submissions
-* TA Hours
-* [Discussion Forum]({filename}/general/help.md#discussion-forum)
-* Final Review Materials
+<!-- [The current Canvas page is here.](https://canvas.ualberta.ca/courses/33421) -->
 
 ## News & Notices
 
@@ -41,7 +39,7 @@ save_as: index.html
 * You must be in Edmonton to take this course.
 * You must attend Zoom with your real name (as displayed in Canvas).
 * [How to use Zoom for Students](https://support.eclass.ualberta.ca/index.php?/Knowledgebase/Article/View/422/23/using-zoom-for-students)
-* [The lecture zoom is connected through Canvas.](https://canvas.ualberta.ca/courses/33421/external_tools/282)
+<!-- * [The lecture zoom is connected through Canvas.](https://canvas.ualberta.ca/courses/33421/external_tools/282) -->
 * [Direct Link](https://ualberta-ca.zoom.us/j/95893996808)
 
 # Lecture Material

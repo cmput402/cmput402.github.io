@@ -9,6 +9,12 @@ summary: Resources, Reference Materials, Notes, Videos, Slides
 
 [TOC]
 
+# Exam Practice & Review
+
+* Available on the Google Drive. You must be logged in with your CCID to access. <https://drive.google.com/drive/folders/1C0dQjvhopEzNZQdk3HUn-p-KKxaOSrW_?usp=drive_link>
+
+
+
 # Software
 
 * [ACTS](https://csrc.nist.gov/Projects/automated-combinatorial-testing-for-software/downloadable-tools)
