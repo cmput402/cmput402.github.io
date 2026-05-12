@@ -28,7 +28,7 @@ save_as: index.html
 
 ## News & Notices
 
-[The latest news and notices for students.](https://canvas.ualberta.ca/courses/33421/announcements) Check this regularly!
+[The latest news and notices for students.](https://groups.google.com/a/ualberta.ca/g/grp-summer26-cmput402b-lec-c1) Check this regularly!
 
 ## Lecture Zoom
 
