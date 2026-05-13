@@ -93,12 +93,7 @@ If your question is related to content covered in class, and you need further ex
 
 TAs are not allowed to change your marks. If you disagree with your marks, [contact instructor](#contact-instructor) instead.
 
-## Instructor Office Hours
-
-* [Instructor office hours]({filename}/general/outline.md#contact-information) is in the course outline.
-* Do not email instructor, use the [Contact instructor form](#contact-instructor), instead.
-
-## TAs
+## TAs & Office Hours
 
 **If you need help with your projects/assignment code, or help to get something working, the TAs are best suited to help you.**
 
@@ -108,7 +103,7 @@ TAs are not allowed to change your marks. If you disagree with your marks, [cont
 * Please be polite and courteous.
 * TAs will not re-grade your work or deal with extensions, excuses, illness, etc.
 
-TA office hours are [on Canvas](https://canvas.ualberta.ca/courses/33421/pages/tas-and-office-hours).
+Instructor and TA office hours: [Google Doc](https://docs.google.com/document/d/1lmzoIIUCQkn11pFk6OFiS3nzwop0fvvWN3zFIk1uJxY/edit). You must be logged in to your UAlberta Google account to view.
 
 # Contact Instructor
 

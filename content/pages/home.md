@@ -11,7 +11,7 @@ save_as: index.html
     * [Wellness Supports]({filename}/general/help.md#wellness-supports)
 * [Course Schedule](#schedule)
 * [Reference Material, eBooks, & Resources]({filename}/general/resources.md)
-* [TAs & Office Hours](https://docs.google.com/document/d/1lmzoIIUCQkn11pFk6OFiS3nzwop0fvvWN3zFIk1uJxY/edit) (you must be logged into your UA account to view)
+* [TAs & Office Hours]({filename}/general/help.md#tas)
 * [Discussion & Announcements]({filename}/general/help.md#discussion-forum)
 
 # Schedule 

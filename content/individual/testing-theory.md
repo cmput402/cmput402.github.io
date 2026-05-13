@@ -21,7 +21,7 @@ summary: Individual Assignment 1: Testing Theory
 
 # Submission
 
-* You must upload a [Zipped PDF report]({filename}/general/report.md) to canvas.
+* You must upload a [Zipped PDF report]({filename}/general/report.md).
 * The assignment consists of 6 questions
 * Your report must be well formatted and not just readable, but professional and **easy** to read.
 
