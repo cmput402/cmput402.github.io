@@ -118,14 +118,28 @@ folder that starts two houses. You can launch it with:
 docker-compose up --build
 ```
 
+or (for Docker Desktop 4.0 and later):
+
+```bash
+docker compose up --build
+```
+
 If you want to run this version, note that there is a separate config file,
 *config.docker.yml*, that is used in this case.
 
-If you have made changes and want your docker setup to reflect it, run
+If you have made changes and want your docker setup to reflect it, run:
+
 ```bash
- docker-compose down && docker-compose build --no-cache && docker-compose up
+docker-compose down && docker-compose build --no-cache && docker-compose up
 ```
 
+or (for Docker Desktop 4.0 and later):
+
+```bash
+docker compose down && docker compose build --no-cache && docker compose up
+```
+
+> **Note:** Docker Desktop 4.0 and later replaced the standalone `docker-compose` command with the integrated `docker compose` CLI. Both syntaxes are shown above; use whichever matches your Docker Desktop version.
 
 ### Windows differences
 * Open Docker Desktop and under "Container / Apps" remember to "Start" the "smart-home" container.
