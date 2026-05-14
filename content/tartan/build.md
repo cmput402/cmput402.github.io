@@ -23,7 +23,7 @@ technical components and their configuration below.
 
 ## Dependencies
 
-The platform is written in Java, using Java 11. If OpenJDK is used,
+The platform is written in Java, using Java 21. If OpenJDK is used,
 dependencies for javafx may need to be installed additionally (e.g., `apt-get
 install openjfx` on Ubuntu). Gradle 7.3 is used as a build system and already
 included with the gradlew wrapper. Various Java dependencies are automatically
@@ -39,7 +39,7 @@ as database engine. Python 3.7 is used to execute the house simulator/hub.
       cd smart-home/Platform
       gradle wrapper
       ```
-* Java (Windows): https://www.oracle.com/ca-en/java/technologies/javase/jdk11-archive-downloads.html
+* Java (Windows): https://www.oracle.com/ca-en/java/technologies/javase/jdk21-archive-downloads.html
 * MySQL (Ubuntu): https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-18-04
 * MySQL (Windows): https://downloads.mysql.com/archives/installer/ Change version to 8.0
 * Docker (Ubuntu): https://docs.docker.com/engine/install/ubuntu/
