@@ -140,3 +140,7 @@ In total, G1 is worth 63 points with the following breakdown:
 The report is graded based on its presentation, organization, and *how clearly things are described*. All the items described in the Acceptance Criteria section above must appear in the report.
 
 Each member must assess their team members' contributions. There will be a Google Form linked on Canvas. This is worth 5 points of the total assignment grade and is confidential (results go to the course staff). Note that if we find *big* discrepancies in contributions or if one team member is negatively rated by all other team members, *then* we will investigate and regrade team members as needed.
+
+# Resources
+
+* [Working on Tests with IntelliJ](https://www.jetbrains.com/help/idea/testing.html#create-test-resources-root)
