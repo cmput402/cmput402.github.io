@@ -87,12 +87,12 @@ At this point, you are also welcome to explore additional GH Actions that may pr
 
 ## Submission Requirements
 
-- Submit a [Zipped PDF report]({filename}/general/report.md) (max. 3 pages) via Canvas.
+- Submit a [Zipped PDF report]({filename}/general/report.md) (max. 3 pages) to the Google form: <https://docs.google.com/forms/d/e/1FAIpQLSdv118qFYNqVtyUYEU1Nm4ZX2UaDJoR-vRRa00qtbh4HWUwCw/viewform?usp=publish-editor>.
 - Include your team's repository link in the report.
 - Please name your file using the following format:
     - `<LabCode>_<GroupName>_G1_Report.zip`
     - Example: `D01_m01_G1_Report.zip`
-- Meets the [formatting requirements]({filename}/general/report.md). Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting requirements.
+- Meets the [formatting requirements]({filename}/general/report.md). Marks may be lost, or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting requirements.
 
 ## Your Report Must Include
 
