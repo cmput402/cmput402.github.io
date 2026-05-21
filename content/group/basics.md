@@ -94,6 +94,7 @@ At this point, you are also welcome to explore additional GH Actions that may pr
     - Example: `D01_m01_G1_Report.zip`
 - Meets the [formatting requirements]({filename}/general/report.md). Marks may be lost, or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting requirements.
 - Your zip should include your PDF and all source files used in the report (`.doc`, `.docx`, `.tex`, `.odt`, `.png`, `.jpg`, ...) including any pictures, figures, screenshots, diagrams, etc. If you used Google Docs please include the exported `.docx` or `.odt`.
+- All team members should submit the same report. 
 
 ## Your Report Must Include
 
