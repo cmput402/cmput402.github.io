@@ -16,19 +16,18 @@ You must submit your report as a ZIP archive including:
 3. Include you or your team's repository link in the report.
 4. **Any images, figures, drawings, plots, graphs, etc. must be included in *both* the ZIP file and the PDF in the ZIP file.** 
 
-<p class="longWarning">If the assignment uses git or github, indicate your repository URL in your report, if you don't you will get a zero! This is all of them except the IA1 Testing Theory!</p>
+<p class="longWarning">If the assignment uses git or github, indicate your repository URL in your report, if you don't you will get a zero! This is all of them except the IA1 Testing Theory! (IA1 is the only assignment that doesn't have a repository.)</p>
 
 - Please name your file using the following format:
     - `<LabCode>_<GroupName>_G1_Report.zip`
-    - Example: `D01_m01_G1_Report.zip`
+    - Example: If your team name is "orange" and your lab section in BearTracks is "D01": `D01_orange_G1_Report.zip`
     - `<YourName>_I1_Report.zip`
-    - Example: `Hazel_Campbell_I1_Report.zip`
+    - Example: If your CCID is "hazelcam": `hazelcam_I1_Report.zip`
 - The PDF inside the zip should have a similar name:
     - `<LabCode>_<GroupName>_G1_Report.pdf`
-    - Example: `D01_m01_G1_Report.pdf`
+    - Example: `D01_orange_G1_Report.pdf`
     - `<YourName>_I1_Report.pdf`
-    - Example: `Hazel_Campbell_I1_Report.pdf`
-
+    - Example: `hazelcam_I1_Report.pdf`
 
 # Report Format
 
