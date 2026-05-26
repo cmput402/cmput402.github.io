@@ -45,7 +45,7 @@ Your report must be well formatted and not just readable, but professional and *
 * Your name must be included in the authors line in the report.
 * Images included in the ZIP and in the PDF in the ZIP.
 
-More details can be found in the MS Word template: <https://www.ieee.org/content/dam/ieee-org/ieee/web/org/conferences/conference-template-letter.docx> or [the MS Word template rendered as a PDF]({attach}conference-template-letter.pdf). If in doubt, make your report look like the template!
+More details can be found in the MS Word template: <https://www.ieee.org/content/dam/ieee-org/ieee/web/org/conferences/conference-template-letter.docx> or [the MS Word template rendered as a PDF]({attach}../group/conference-template-letter.pdf). If in doubt, make your report look like the template!
 
 More templates: 
 
