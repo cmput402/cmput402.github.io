@@ -63,10 +63,11 @@ In the first part of this assignment, your task is to improve the quality of you
 Tartan Inc. would like your team to implement the software logic for a new smart door lock. The smart door lock hardware allows the door to be locked and unlocked automatically using a passcode, and it will provide many "smart" features that users can configure for additional security or convenience. Note that opening/closing the door is different from locking/unlocking a lock. The former refers to the physical state of the door, while the latter refers to the state of the deadbolt on the door. 
 
 Specifically, the smart lock must support the following features that users can enable or disable:
-- **Electronic Operation**: If a person requests a lock or unlock operation from an access panel, first check if that operation requires a passcode. If so, it must validate the input before proceeding. If the passcode is rejected, an appropriate response should be sent. Otherwise, the requested operation should be carried out.
-- **Keyless Entry**: When sensors detect the approach of an authorized resident (e.g., proximity of a registered device), automatically unlock the door.
-- **Intruder Defence**: When in-home sensors detect the possible presence of an intruder, lock the door and send "possible intruder detected" messages to the access panels. Keep the door locked until the sensors provide an "all clear" signal, at which time "all clear" messages are sent to the access panels.
-- **Night Lock**: Residents configure the time when night begins and ends. At night, the door is automatically locked and always relocked if it becomes unlocked at any point during the night.
+
+* **Electronic Operation**: If a person requests a lock or unlock operation from an access panel, first check if that operation requires a passcode. If so, it must validate the input before proceeding. If the passcode is rejected, an appropriate response should be sent. Otherwise, the requested operation should be carried out.
+* **Keyless Entry**: When sensors detect the approach of an authorized resident (for example, a nearby radio key or resident's cellphone), automatically unlock the door. This is a new type of sensor.
+* **Intruder Defence**: When in-home sensors detect the possible presence of an intruder, lock the door and send "possible intruder detected" messages to the access panels. Keep the door locked until the sensors provide an "all clear" signal, at which time "all clear" messages are sent to the access panels.
+* **Night Lock**: Residents configure the time when night begins and ends. At night, the door is automatically locked and always relocked if it becomes unlocked at any point during the night.
 
 An access panel is one of these: <br>
 <img id="access-panel" alt="access panel" src="{attach}adt-access-panel.jpg" style="width: 50%;"><br>
