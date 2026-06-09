@@ -55,7 +55,7 @@ In the first part of this assignment, your task is to improve the quality of you
 | Automated measurement of coverage with each build is implemented. | 5 |
 | All tests pass. | 10 |
 
-**NOTE**: Please refer to the code coverage tutorial posted on Canvas and discussed in the lab to see how you can configure your coverage measurement tool to measure coverage only for your implemented features (as much as possible).
+**NOTE**: Please refer to the code coverage tutorial from lab 3 and discussed in the lab to see how you can configure your coverage measurement tool to measure coverage only for your implemented features (as much as possible).
 
 
 # Part 2: Implementation and Verification of a Smart Door Lock
