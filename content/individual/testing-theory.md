@@ -31,7 +31,7 @@ summary: Individual Assignment 1: Testing Theory
 
 # Overview
 
-The learning objectives of this assignment is:
+The learning objectives of this assignment are:
 
 -   understand expectations around GenAI (LLM) use
 -   practice boundary value analysis
@@ -68,7 +68,7 @@ C. For what grade items is the use of online Q & A websites (such as Stack Overf
 * Group Assignment?
 * Participation?
 
-D. For what grade items is the is sharing answers with other students allowed in this course?
+D. For what grade items is the sharing of answers with other students allowed in this course?
 
 * Exam?
 * Individual Assignment?
@@ -304,9 +304,9 @@ public static String isValidMove(String from, String to) {
 /* 3*/    }
 /* 4*/
 /* 5*/   if (from.equals("stock") && isValidPileNumber(to)) { // B
-/* 6*/        return "Valid: stock to pile"
+/* 6*/        return "Valid: stock to pile";
 /* 7*/    } else if (from.equals("stock") && SUITS.contains(to)) { // C
-/* 8*/        return "Valid: stock to suit"
+/* 8*/        return "Valid: stock to suit";
 /* 9*/    } else if (isValidPileNumber(from)) { // D
 /*10*/        if (!(isValidPileNumber(to) || SUITS.contains(to))) { // E
 /*11*/           return "Invalid: <to> value is invalid";
@@ -337,7 +337,7 @@ public static boolean isValidPileNumber(String input) {
 
 *Please note that the method `isValidPileNumber` and the variable
 `SUITS` are provided to help you understand the logic, and they are not
-be a part of the control-flow graph.*
+a part of the control-flow graph.*
 
 (b) \[1 mark\] Obtaining a 100% statement (a.k.a node) coverage requires
     (at least) six tests on this graph. Explain why.
