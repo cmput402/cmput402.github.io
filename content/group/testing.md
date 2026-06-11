@@ -73,7 +73,7 @@ An access panel is one of these: <br>
 <img id="access-panel" alt="access panel" src="{attach}adt-access-panel.jpg" style="width: 50%;"><br>
 (Picture by Marco Albertini, https://securitycamcenter.com/how-to-reset-adt-alarm-system/).
 
-For the access panel, you can add the functionality to the frontend, since we don't have any physical access panels. Make sure that your messages are shown on the frontend log of the application. You can append the access panel messages to your log in your code and make sure it's showing up on the frontend.
+For the access panel, you can add the functionality to the existing frontend instead of creating a new frontend. However, you must add the access panel interface somewhere, since we don't have physical access panels. Make sure that your messages are shown on the frontend log of the application. You can append the access panel messages to your log in your code and make sure it's showing up on the frontend.
 
 Note that the above feature requirements may be ambiguous. In addition, features may interact, and the door lock should behave in a reasonable way, which can be resolved with timers, priorities, or other mechanisms. For example, what happens or should happen if an intruder is detected and a resident arrives at the door? You should ask for clarification about requirements if needed and explicitly document all assumptions you make about interactions.
 
