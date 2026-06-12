@@ -132,6 +132,7 @@ The following describes the required details of the report:
     - `<LabCode>_<GroupName>_G2_Report.zip`
     - Example: `D01_m01_G2_Report.zip`
 - Meets the [formatting requirements]({filename}/general/report.md). Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting above.
+- Submission form: <https://docs.google.com/forms/d/e/1FAIpQLSf3VZlM5-7kVI-smNQpRDqzu9BGM_sjaWZyv6AgcfEFDrzORQ/viewform?usp=publish-editor>
 
 # Grading Summary
 
