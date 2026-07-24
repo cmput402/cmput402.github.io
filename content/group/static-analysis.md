@@ -29,7 +29,7 @@ Learning goals:
 
 # Resources
 
-You will use three static analysis tools to analyze your Tartan codebase for potential problems: **SpotBugs**, **PMD**, and **ErrorProne**.
+You will use three static analysis tools to analyze your Tartan codebase for potential problems: **SpotBugs**, **PMD**, and **Error Prone**.
 
 To run **SpotBugs**, you have a few options:
 
@@ -42,17 +42,17 @@ To use **PMD**, you can:
 * Add it to your build using the [PMD Gradle Plugin](https://docs.gradle.org/current/userguide/pmd_plugin.html).  
 * Or run it directly from the command line without editing your Gradle file. See the [PMD CLI guide](https://pmd.github.io/latest/pmd_userdocs_installation.html#running-pmd-via-command-line).
 
-To run **ErrorProne**, follow the [Gradle ErrorProne Plugin guide](https://github.com/tbroyer/gradle-errorprone-plugin) to add it to your build setup. You can find more details at [errorprone.info](http://errorprone.info).
+To run **Error Prone**, follow the [Gradle Error Prone Plugin guide](https://github.com/tbroyer/gradle-errorprone-plugin) to add it to your build setup. You can find more details at [errorprone.info](http://errorprone.info).
 
 
 # Task
 
-Run SpotBugs, PMD and ErrorProne on your Tartan system and analyze the results. Specifically:
+Run SpotBugs, PMD and Error Prone on your Tartan system and analyze the results. Specifically:
 
 1. (5 marks) Report how many errors/warnings were reported by each tool and in which categories (note that the category names or how errors/warnings are categorized in each tool may be different for each tool).
 2. (5 marks) Report the similarities and discrepancies between the tools. Are there errors/warnings that one tool reports but the other doesn't (give at least 3 examples, if available)? Are there error/warnings that all three tools report? (give at least 3 examples, if available)
 3. (5 marks) Report which Java class(es) from Tartan seems most problematic. Explain your result.
-4. (60 marks total) Select 10 reported problems, distributed across the three tools, to analyze in more detail. For each problem, report
+4. (60 marks total) Select 10 reported problems, distributed across the three tools, to analyze in more detail. For each problem, report:
 	* (2 marks) The identifying information for the bug, including its category, priority, file name, and line number.
 	* (1 mark) A one-sentence description of the problem
 	* (2 marks) A characterization of the bug in terms of whether it is an actual problem, false positive, or irrelevant true positive. Explain your reasoning.
@@ -66,7 +66,7 @@ Run SpotBugs, PMD and ErrorProne on your Tartan system and analyze the results. 
 
 <p class="longWarning">Your submission must meet the <a href="../general/report.html">formatting requirements</a>. Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting requirements.</p>
 
-- Submit a [Zipped PDF report]({filename}/general/report.md) (max. 4 pages of text, including screenshots/tables, etc) via Canvas.
+- Submit a [Zipped PDF report]({filename}/general/report.md) (max. 4 pages of text, including screenshots/tables, etc.) via Canvas.
 - Include your team's repository link in the report.
 - Please name your file using the following format:
     - `<LabCode>_<GroupName>_G4_Report.zip`
