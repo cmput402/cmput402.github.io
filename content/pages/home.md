@@ -11,7 +11,7 @@ save_as: index.html
     * [Wellness Supports]({filename}/general/help.md#wellness-supports)
 * [Course Schedule](#schedule)
 * [Reference Material, eBooks, & Resources]({filename}/general/resources.md)
-* [TAs & Office Hours]({filename}/general/help.md#tas)
+* [TAs & Office Hours]({filename}/general/help.md#tas-office-hours)
 * [Discussion & Announcements]({filename}/general/help.md#discussion-forum)
 
 # Schedule 
