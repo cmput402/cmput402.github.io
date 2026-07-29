@@ -110,7 +110,7 @@ The following criteria must be satisfied for Part 2 to be accepted as complete.
 
 You must write your report that describes your verification activities, decisions, and results for both the existing functionality and the new door lock. While marking, we will verify all acceptance criteria by checking both your report and code repository. However, we will not look “deeply” into your code repository, e.g., we will not spend more than 10 minutes trying to get your project to compile and run. 
 
-The following sections describes the required details of the report:
+The following sections describe the required details of the report:
 
 - **Part 1:**
 	- **Chosen Rules**: For completeness, restate the six rules (same as those from G1) for part 1.
