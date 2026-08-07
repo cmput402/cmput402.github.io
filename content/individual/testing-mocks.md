@@ -18,7 +18,7 @@ summary: Individual Assignment 2: Testing with Mocks
 
 # Overview
 
-Most parts of software systems do not work in isolation and are difficult to test when the environment changes. Rather, these parts collaborate with multiple components to perform tasks that we want to implement and test. Various forms of mocks, stubs, fakes and other objects are used in many forms of testing to simulate the behavior of real objects that our implementation depends on to perform a specific task. One of the benefits of mocking dependencies is that we can focus on testing our implementation given that we have obtained the information that we expected from those dependencies. Furthermore, it allows to simulate error conditions in the environment and thus to test a system for robustness. In this assignment, you will test a desktop application by mocking a network service.
+Most parts of software systems do not work in isolation and are difficult to test when the environment changes. Rather, these parts collaborate with multiple components to perform tasks that we want to implement and test. Various forms of mocks, stubs, fakes, and other objects are used in many forms of testing to simulate the behavior of real objects that our implementation depends on to perform a specific task. One of the benefits of mocking dependencies is that we can focus on testing our implementation given that we have obtained the information that we expected from those dependencies. Furthermore, mocking allows us to simulate error conditions in the environment and thus to test a system for robustness. In this assignment, you will test a desktop application by mocking a network service.
 
 # Learning Goals
 
@@ -37,7 +37,7 @@ Most parts of software systems do not work in isolation and are difficult to tes
 
 # Task: Unit test functionalities of a desktop application
 
-You are developing a GitHub dataminer in Java. Your application will automate a few data gathering tasks on GitHub that may be of interest, such as finding out what day of the week (Monday, Tuesday, etc.) someone makes the most commits on. The current code is really basic and you are allowed to extend it. When developing your miner, you realize that interacting with the GitHub API is not simple as you expected. You need to obtain a token for interacting with the API. Also you do not want to run into API limits due to your tests running too often. You want to test whether your application could handle network connections gracefully. Primarily, you want to test the logic of your application and your error handling mechanisms, assuming you have already interacted with GitHub and received some response from the API. **Your goal in this assignment is to mock the [Java GitHub API](https://github.com/hub4j/github-api/tree/main/src/main/java/org/kohsuke/github) dependency to test your implementation and its robustness.**
+You are developing a GitHub dataminer in Java. Your application will automate a few data gathering tasks on GitHub that may be of interest, such as finding out what day of the week (Monday, Tuesday, etc.) someone makes the most commits on. The current code is really basic and you are allowed to extend it. When developing your miner, you realize that interacting with the GitHub API is not as simple as you expected. You need to obtain a token for interacting with the API. Also, you do not want to run into API limits due to your tests running too often. You want to test whether your application could handle network connections gracefully. Primarily, you want to test the logic of your application and your error handling mechanisms, assuming you have already interacted with GitHub and received some response from the API. **Your goal in this assignment is to mock the [Java GitHub API](https://github.com/hub4j/github-api/tree/main/src/main/java/org/kohsuke/github) dependency to test your implementation and its robustness.**
 
 The starter code contains some basic functionality for a GitHub miner. Extend the miner as described below and automate testing of the functionality of your miner without actually interacting with the real GitHub API. **In the process, you may need to modify the existing source code to make the project testable (e.g., private methods cannot be tested and static method calls cannot be mocked).**
 
@@ -59,9 +59,9 @@ Your code should only communicate with the GitHub servers if Main is run normall
 
 ## Step 2: Robustness Tactic
 
-In addition to the above functionally, you need to improve the error handling mechanism of the application. Instead of the application crashing with some error if a task could not be completed, you need to retry 3 times before gracefully reporting an error message. You will need to test that this robustness tactic actually works as expected. 
+In addition to the above functionality, you need to improve the error handling mechanism of the application. Instead of the application crashing with some error if a task could not be completed, you need to retry 3 times before gracefully reporting an error message. You will need to test that this robustness tactic actually works as expected. 
 
-We recommend to add this robustness tactic to all interactions with the GitHub API, **but for this assignment, it is sufficient to implement and test it for a single function of your choice.**
+We recommend adding this robustness tactic to all interactions with the GitHub API, **but for this assignment, it is sufficient to implement and test it for a single function of your choice.**
 
 # Deliverables
 
@@ -76,7 +76,7 @@ Submit a [Zipped PDF Report]({filename}/general/report.md) on Canvas that includ
 	c.	Explicitly mention which function you chose to implement robustness for and describe how you assessed that your testing w.r.t robustness is adequate.
 	d.	If you had more time and resources, would you propose additional changes to make testing easier?
 	
-<p class="longWarning">Please indicate your repository URL in your report, if you don't you will get a zero!
+<p class="longWarning">Please indicate your repository URL in your report, if you don't, you will get a zero!
 
 Do not commit/push a gradle.properties with a hardcoded Java home. This will prevent the TAs from building and running your tests. Please verify that you can git clone your repo and gradlew build test on Ubuntu.</p>
 
@@ -110,7 +110,7 @@ Mockito and github-api both use Java bytecode manipulation. Mockito does this to
 
 Usually you should avoid modifying the production code to add wrappers that are only necessary for the test code to work. However, in this case it is unavoidable because the methods mockito and the github-api code use are in conflict. Similar conflicts can also arise in other programming languages such as Python.
 
-Keep in mind that there are many different ways to solve everything in this assignment. For example, mockito has `@` decorators that can make your code a lot cleaner than the provided sample code.
+Keep in mind that there are many different ways to solve everything in this assignment. For example, Mockito has `@` decorators that can make your code a lot cleaner than the provided sample code.
 
 You can use the `try (MockedConstruction` pattern to intercept any constructor. This is using a Java feature called [try-with-resources](https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html). But its not necessary to do unless the "new" you're trying to intercept is in the production code (or somewhere inside of github-api). For any constructors called in the testing code, you can just `mock(Whatever.class)`.
 
