@@ -75,6 +75,7 @@ MENUITEMS=[
     ("Project", "/general/project.html"),
     ("Assignments", "/general/individual.html"),
     ("Resources", "/general/resources.html"),
+    ("Submissions", "/general/submissions.html"),
     ("Discussion Forum", "/general/help.html#discussion-forum"),
     ("News&Notices", "/#news-notices"),
     ("Zoom", "/#lecture-zoom"),
