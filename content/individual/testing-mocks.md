@@ -18,7 +18,7 @@ summary: Individual Assignment 2: Testing with Mocks
 
 # Overview
 
-Most parts of software systems do not work in isolation and are difficult to test when the environment changes. Rather, these parts collaborate with multiple components to perform tasks that we want to implement and test. Various forms of mocks, stubs, fakes and other objects are used in many forms of testing to simulate the behavior of real objects that our implementation depends on to perform a specific task. One of the benefits of mocking dependencies is that we can focus on testing our implementation given that we have obtained the information that we expected from those dependencies. Furthermore, it allows to simulate error conditions in the environment and thus to test a system for robustness. In this assignment, you will test a desktop application by mocking a network service.
+Most parts of software systems do not work in isolation and are difficult to test when the environment changes. Rather, these parts collaborate with multiple components to perform tasks that we want to implement and test. Various forms of mocks, stubs, fakes and other objects are used in many forms of testing to simulate the behavior of real objects that our implementation depends on to perform a specific task. One of the benefits of mocking dependencies is that we can focus on testing our implementation given that we have obtained the information that we expected from those dependencies. Furthermore, it allows us to simulate error conditions in the environment and thus to test a system for robustness. In this assignment, you will test a desktop application by mocking a network service.
 
 # Learning Goals
 
@@ -65,7 +65,7 @@ We recommend to add this robustness tactic to all interactions with the GitHub A
 
 # Deliverables
 
-<p class="longWarning">Your submission must meet the <a href="../general/report.html">formatting requirements</a> Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting requirements.</p>
+<p class="longWarning">Your submission must meet the <a href="../general/report.html">formatting requirements</a>. Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting requirements.</p>
 
 Submit a [Zipped PDF Report]({filename}/general/report.md) on Canvas that includes your solution as follows:
 
@@ -112,6 +112,6 @@ Usually you should avoid modifying the production code to add wrappers that are 
 
 Keep in mind that there are many different ways to solve everything in this assignment. For example, mockito has `@` decorators that can make your code a lot cleaner than the provided sample code.
 
-You can use the `try (MockedConstruction` pattern to intercept any constructor. This is using a Java feature called [try-with-resources](https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html). But its not necessary to do unless the "new" you're trying to intercept is in the production code (or somewhere inside of github-api). For any constructors called in the testing code, you can just `mock(Whatever.class)`.
+You can use the `try (MockedConstruction` pattern to intercept any constructor. This is using a Java feature called [try-with-resources](https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html). But it's not necessary to do unless the "new" you're trying to intercept is in the production code (or somewhere inside of github-api). For any constructors called in the testing code, you can just `mock(Whatever.class)`.
 
 Copyright 2021, 2022 Dr. Sarah Nadi. Copyright 2023, 2024 Dr. Hazel Campbell. All rights reserved.

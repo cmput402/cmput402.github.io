@@ -31,7 +31,7 @@ The learning goals of this group project are:
 The following requirements must be satisfied to start this project:
 
 - The team is familiar with collaborative development and code review features of GitHub (a quick recap will also be provided in the lab).
-- A development environment with Java, Gradle and Docker support, preferably together with a correctly configured IDE like Eclipse or IntelliJ that allows to execute unit tests and perform coverage analysis on Java projects.
+- A development environment with Java, Gradle and Docker support, preferably together with a correctly configured IDE like Eclipse or IntelliJ that allows you to execute unit tests and perform coverage analysis on Java projects.
 - Note that you must continue working on the same repository you created through GitHub Classroom for group project 1.
 
 You will also likely need several additional tools to complete this assignment. Please identify and describe these tools in your report.

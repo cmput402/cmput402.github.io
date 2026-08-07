@@ -13,7 +13,7 @@ You must submit your report as a ZIP archive including:
 1. Your finished report as a PDF file.
 2. Your source files including any figures, any .docx, or any LaTeX source files.
     * If you are using Google Docs, export as a .docx and include that in the zip file.
-3. Include you or your team's repository link in the report.
+3. Include your or your team's repository link in the report.
 4. **Any images, figures, drawings, plots, graphs, etc. must be included in *both* the ZIP file and the PDF in the ZIP file.** 
 
 <p class="longWarning">If the assignment uses git or github, indicate your repository URL in your report, if you don't you will get a zero! This is all of them except the IA1 Testing Theory! (IA1 is the only assignment that doesn't have a repository.)</p>
