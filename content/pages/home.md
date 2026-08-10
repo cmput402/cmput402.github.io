@@ -22,9 +22,13 @@ save_as: index.html
 
 # Canvas
 
-* We are not using Canvas. We will be turning in homework by Google Form. IDK what we are going to do about grades!
+* We are not using Canvas. We will be turning in homework by Google Form.
 
 <!-- [The current Canvas page is here.](https://canvas.ualberta.ca/courses/33421) -->
+
+## Grades
+
+* Since we are not using Canvas, your grades can be found on [sinfo](https://sinfo.cs.ualberta.ca/).
 
 ## News & Notices
 
