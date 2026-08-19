@@ -42,7 +42,7 @@ In G1, you did not know all the techniques that could help you choose meaningful
 
 In the first part of this assignment, your task is to improve the quality of your test suite for the **six rules** in G1 as follows:
 
-1. Use **blackbox testing techniques** to create better test cases and corresponding oracles (i.e., the concrete input values and expected output in your tests). You are advised to carefully read Tartan's specification and decide on whether there are additional scenarios you need to test for (e.g., now is the time to think about whether the rules interact and if there are edge cases you need to think of). When selecting concrete oracles, some of your options include boundary value testing, random testing, or strong/weak equivalence class testing. You may think of other strategies, too.
+1. Use **blackbox testing techniques** to create better test cases and corresponding oracles (i.e., the concrete input values and expected output in your tests). You are advised to carefully read Tartan's specification and decide whether there are additional scenarios you need to test for (e.g., now is the time to think about whether the rules interact and if there are edge cases you need to think of). When selecting concrete oracles, some of your options include boundary value testing, random testing, or strong/weak equivalence class testing. You may think of other strategies, too.
 
 2. Use **whitebox testing techniques** to evaluate and improve the adequacy of your test suite. In this case, you are asked to write more tests that improve the coverage of your test suite.
 
@@ -94,12 +94,12 @@ The following criteria must be satisfied for Part 2 to be accepted as complete.
 
 | **Criteria** | **Grade** |
 |---|---:|
-| Requirements for the smart door lock are documented. It should be clear and complete and include any assumptions the team made. | 12 |
+| The requirements for the smart door lock are documented. They should be clear and complete and include any assumptions the team made. | 12 |
 | The smart door lock implementation builds and runs successfully, and meets the functional requirements defined above. | 12 |
-| Integration and system testing strategy is implemented and described. | 10 |
+| An Integration and system testing strategy is implemented and described. | 10 |
 | Tests must achieve at least 80% statement and 80% branch coverage for **new** code. | 15 |
 | The mutation score for the tests related to the new door lock functionality should be 90%. | 10 |
-| Automated System Testing Integrated in CI. | 5 |
+| Automated system testing Integrated in CI. | 5 |
 | Test-driven development has been followed. | 5 |
 | New features underwent code review. | 5 |
 
@@ -110,7 +110,7 @@ The following criteria must be satisfied for Part 2 to be accepted as complete.
 
 You must write your report that describes your verification activities, decisions, and results for both the existing functionality and the new door lock. While marking, we will verify all acceptance criteria by checking both your report and code repository. However, we will not look “deeply” into your code repository, e.g., we will not spend more than 10 minutes trying to get your project to compile and run. 
 
-The following describes the required details of the report:
+The following sections describe the required details of the report:
 
 - **Part 1:**
 	- **Chosen Rules**: For completeness, restate the six rules (same as those from G1) for part 1.
@@ -131,7 +131,7 @@ The following describes the required details of the report:
 - Please name your file using the following format:
     - `<LabCode>_<GroupName>_G2_Report.zip`
     - Example: `D01_m01_G2_Report.zip`
-- Meets the [formatting requirements]({filename}/general/report.md). Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting above.
+- The report must meet the [formatting requirements]({filename}/general/report.md). Marks may be lost or you may receive a zero if the report is not **easy** to read and professional, or if it does not meet the formatting above.
 - Submission form: <https://docs.google.com/forms/d/e/1FAIpQLSf3VZlM5-7kVI-smNQpRDqzu9BGM_sjaWZyv6AgcfEFDrzORQ/viewform?usp=publish-editor>
 
 # Grading Summary
