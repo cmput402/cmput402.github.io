@@ -26,7 +26,7 @@ The learning goals of I3 are:
 
 - Deciding which performance concerns are important for a system    
 - Deciding between different approaches to performance assessment and understanding their limitations
-- Learn how to use JMeter for load testing and performance assessment
+- Learning how to use JMeter for load testing and performance assessment
 
 # Performance analysis of book website
 
@@ -84,7 +84,7 @@ precise as possible (e.g., "about 1200 requests").
 Submit the report as a [Zipped PDF Report]({filename}/general/report.md) (max 4 pages including any screenshots, plots,
 etc.) with clear subsections to Canvas. Keep all sections under half a page if
 possible, except for the process description, which might be longer and might
-include additionally screenshots or scripts if that simplifies your
+include additional screenshots or scripts if that simplifies your
 description.
 
 The following criteria must be satisfied for I3 to be accepted as complete.
